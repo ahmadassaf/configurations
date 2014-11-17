@@ -8,5 +8,9 @@
 
 [submodule "bash-it"]
 	path = bash-it
-	url = https://github.com/revans/bash-it
+	url = https://github.com/ahmadassaf/bash-it
+
+[submodule "oh-my-zsh"]
+	path = oh-my-zsh
+	url = https://github.com/ahmadassaf/oh-my-zsh
 
