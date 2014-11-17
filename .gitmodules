@@ -1,0 +1,12 @@
+[submodule "dotfiles"]
+	path = dotfiles
+	url = https://github.com/ahmadassaf/dotfiles
+
+[submodule "gitignore"]
+	path = gitignore
+	url = https://github.com/github/gitignore
+
+[submodule "bash-it"]
+	path = bash-it
+	url = https://github.com/revans/bash-it
+
