@@ -1,19 +1,17 @@
 #!/usr/bin/env bash
 set -e
 
-# Pulling recent updates from the upstream and check for changes
-git pull github master
-
-# Pulling all the recent updates from all the submodules
-git submodule foreach git pull github master
-
 # Find the location of the script, this brings out the location of the current directory
 SCRIPT_DIRECTORY="$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )"
 
 # The source directory and target directories.
 SOURCE_LOCATION="$SCRIPT_DIRECTORY" # Contains the files and directories I want to work with.
 
-echo "\n=========================== Oh-my-zsh ===========================\n"
+sh "$SOURCE_LOCATION/update.sh"
+
+echo "\n ============================================
+            oh-my-zsh
+ ============================================ \n"
 
 if [[ -d ${HOME}/.oh-my-zsh ]]; then
 	read -p "Would you like to overwrite the .oh-my-zsh files in your home directory. Are you sure? (y/n) " -n 1;
@@ -59,7 +57,9 @@ if [[ ! -f ${HOME}/.zshrc ]]; then
 	ln -s "$SOURCE_LOCATION/oh-my-zsh/.zshrc" "${HOME}/.zshrc"
 fi
 
-echo "\n=========================== Bash-it ===========================\n"
+echo "\n ============================================
+            bash-it
+ ============================================ \n"
 
 # Installing the bash-it script files by symlinking the github repo to the HOME directory
 
@@ -96,7 +96,9 @@ if [[ $REPLY =~ ^[Yy]$ ]]; then
 
 fi;
 
-echo "\n=========================== Dotfiles ===========================\n"
+echo "\n ============================================
+            dotfiles
+ ============================================ \n"
 
 # run the dotfiles install script
 sh "$SOURCE_LOCATION/dotfiles/install.sh"
