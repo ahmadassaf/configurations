@@ -25,7 +25,7 @@ if [[ $REPLY =~ ^[Yy]$ ]]; then
 fi
 
 echo "\n ============================================
-            ${red}oh-my-zsh${NC}
+                ${red}oh-my-zsh${NC}
  ============================================ \n"
 
 if [[ -d ${HOME}/.oh-my-zsh ]]; then
@@ -75,7 +75,7 @@ if [[ ! -f ${HOME}/.zshrc ]]; then
 fi
 
 echo "\n ============================================
-            ${red}bash-it${NC}
+                ${red}bash-it${NC}
  ============================================ \n"
 
 # Installing the bash-it script files by symlinking the github repo to the HOME directory
@@ -114,7 +114,7 @@ if [[ $REPLY =~ ^[Yy]$ ]]; then
 fi;
 
 echo "\n ============================================
-            ${red}dotfiles${NC}
+                ${red}dotfiles${NC}
  ============================================ \n"
 
 # run the dotfiles install script
@@ -137,7 +137,7 @@ if [[ $REPLY =~ ^[Yy]$ ]]; then
 fi
 
 echo "\n ============================================
-            ${red}Themes${NC}
+                ${red}Themes${NC}
  ============================================ \n"
 # run the themes install script
 sh "$SOURCE_LOCATION/themes/install.sh"

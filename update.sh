@@ -27,5 +27,7 @@ if [[ ! $REPLY =~ ^[nN]$ ]]; then
 fi
 
 echo "\nPushing changes on parent container repository ... "
+git add --all
+git commit -m "automatic updating of repository via update script"
 # update the original container repo
 git push origin master
