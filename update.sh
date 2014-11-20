@@ -12,7 +12,7 @@ echo "\nPulling latest updates from main Github repo and all its submdoules \n";
 # Pulling all the recent updates from all the submodules
 #git submodule foreach git pull origin master
 
-echo "Would you like to push back changes to forked repositories. Please enter ${red}[Forked remote name]${NC} or ${magenta}"N"${NC} to skip: " | read
+echo "Would you like to push back changes to forked repositories. Please enter ${red}[Forked remote name]${NC} or ${magenta}"N"${NC} to skip: " && read
 echo "";
 if [[ ! $REPLY =~ ^[nN]$ ]]; then
 	echo "Pushing back any changes to the forket repositories\n"
