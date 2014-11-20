@@ -20,9 +20,9 @@ if [[ ! $REPLY =~ ^[nN]$ ]]; then
     if [[ $line != "gitignore" ]]; then
 	    # update the forked github repo
 	    echo "pushing changes on repository: ${magenta}$line${NC} on remote: ${red}$REPLY${NC}";
-	    git -c $line add --all
-	    git -c $line commit -m "automatic updating of repository via update script"
-	    git -c $line push $REPLY master
+	    git -c "$line" add --all
+	    git -c "$line" commit -m "automatic updating of repository via update script"
+	    git -c "$line" push "$REPLY" master
 	    sleep 10s
   	fi
 	done
