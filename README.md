@@ -14,3 +14,24 @@ First, lets start with the light weight things. The desktop and general UI enhan
 - Can react to different screen sizes
 
 There is already a nice set of widgets published in the [gallery](http://tracesof.net/uebersicht-widgets/). In my `widgets` folder, you will find the set of widgets i am using with customized positioning and styling.
+
+### Widgets
+
+- `[simple-date](https://github.com/ahmadassaf/configurations/blob/master/widgets/simple-date.coffee)` for the date and time in the middle of the screen
+- `[prayer](https://github.com/ahmadassaf/configurations/tree/master/widgets/prayer.widget)` to show the Muslim prayer times for my area, the green indicating the current active prayer time
+- `weather` to show the nice weather forecast 
+- **System Stats** using `[disk-usage](https://github.com/ahmadassaf/configurations/tree/master/widgets/disk-usage.widget)` `[network-info](https://github.com/ahmadassaf/configurations/tree/master/widgets/network-info.widget)` `[pubic_ip](https://github.com/ahmadassaf/configurations/tree/master/widgets/public_ip.widget)` `[swap-usage](https://github.com/ahmadassaf/configurations/tree/master/widgets/swap-usage.widget)` `[top-cpu](https://github.com/ahmadassaf/configurations/tree/master/widgets/top-cpu.widget)` `[top-mem](https://github.com/ahmadassaf/configurations/tree/master/widgets/top-mem.widget)` `[network-throughput](https://github.com/ahmadassaf/configurations/blob/master/widgets/network-throughput.coffee.buggy)` and `[total-mem](https://github.com/ahmadassaf/configurations/tree/master/widgets/total-mem.widget)`
+
+#### Installation
+
+- Installing Übersicht can be bone using the downloadable [zip file](http://tracesof.net/uebersicht/releases/Uebersicht-0.3.13.app.zip) or the recommended using would be via cask (which i will explain later) via `brew cask install ubersicht`
+- Installing the widgets is done by copying the **contents** of the widgets folder into `Library -> Application Support -> Übersicht -> widgets`. However, what i do is i setup my widgets to be in my Github repo or dropbox folder so that they are synced and can be backed up and i link the folder directly to the desired location via `ln -s ~/Projects/Configurations/config/widgets/ ~/Library/Application\ Support/Übersicht/widgets` where the first parameter is the location of the `widgets/` folder cloned.
+**Note** I have included the folder link in my `.osx` file, you may need to adjust the path of the first argument.
+
+### Other Widgets
+
+One element that i use that is not part of Übersicht is [Dateline](https://itunes.apple.com/us/app/dateline/id406119724?mt=12). it is a discrete desktop calendar with support to iCal and other calendar apps. 
+
+
+
+
