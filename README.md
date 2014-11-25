@@ -38,7 +38,21 @@ There is already a nice set of widgets published in the [gallery](http://traceso
 
 ### Other Widgets
 
-One element that i use that is not part of Übersicht is [Dateline](https://itunes.apple.com/us/app/dateline/id406119724?mt=12). it is a discrete desktop calendar with support to iCal and other calendar apps. 
+One element that i use that is not part of Übersicht is [Dateline](https://itunes.apple.com/us/app/dateline/id406119724?mt=12). It is a discrete desktop calendar with support to iCal and other calendar applications.
+
+### Geeklets
+ 
+In the `Geeklets/` folder there is a backup of the deprecated Geeklet scripts that i used with the old Geektool. If you still prefer it over Übersicht then feel free to use them.
+
+### Dock & Desktop Icons
+
+In the `Flat Icons .icns Format` you will find the set of flat icons i have used for my mounted HDD icons and the dock. 
+To easily change application icons, i suggest you use [LiteIcon](http://www.macupdate.com/app/mac/24764/liteicon) which can be also installed via my `caskfile.sh`
+
+To further customize the dock, i use [Dockmod](http://spyresoft.com/dockmod/) which is the most feature-rich application for dock theming with support up to OSX Yosemite in order to provide a transparent Dock background. 
+
+I also remove the arrow icons for aliases/shortcuts which can be done automatically when executing my `.osx` file or manually by typing the following command in the terminal:
+`mv "/System/Library/CoreServices/CoreTypes.bundle/Contents/Resources/AliasBadgeIcon.icns" "/System/Library/CoreServices/CoreTypes.bundle/Contents/Resources/AliasBadgeIcon_OFF.icns"`
 
 
 
