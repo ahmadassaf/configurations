@@ -17,10 +17,10 @@ There is already a nice set of widgets published in the [gallery](http://traceso
 
 ### Widgets
 
-- `[simple-date](https://github.com/ahmadassaf/configurations/blob/master/widgets/simple-date.coffee)` for the date and time in the middle of the screen
-- `[prayer](https://github.com/ahmadassaf/configurations/tree/master/widgets/prayer.widget)` to show the Muslim prayer times for my area, the green indicating the current active prayer time
+- [simple-date](https://github.com/ahmadassaf/configurations/blob/master/widgets/simple-date.coffee) for the date and time in the middle of the screen
+- [prayer](https://github.com/ahmadassaf/configurations/tree/master/widgets/prayer.widget) to show the Muslim prayer times for my area, the green indicating the current active prayer time
 - `weather` to show the nice weather forecast 
-- **System Stats** using `[disk-usage](https://github.com/ahmadassaf/configurations/tree/master/widgets/disk-usage.widget)` `[network-info](https://github.com/ahmadassaf/configurations/tree/master/widgets/network-info.widget)` `[pubic_ip](https://github.com/ahmadassaf/configurations/tree/master/widgets/public_ip.widget)` `[swap-usage](https://github.com/ahmadassaf/configurations/tree/master/widgets/swap-usage.widget)` `[top-cpu](https://github.com/ahmadassaf/configurations/tree/master/widgets/top-cpu.widget)` `[top-mem](https://github.com/ahmadassaf/configurations/tree/master/widgets/top-mem.widget)` `[network-throughput](https://github.com/ahmadassaf/configurations/blob/master/widgets/network-throughput.coffee.buggy)` and `[total-mem](https://github.com/ahmadassaf/configurations/tree/master/widgets/total-mem.widget)`
+- **System Stats** using [disk-usage](https://github.com/ahmadassaf/configurations/tree/master/widgets/disk-usage.widget) [network-info](https://github.com/ahmadassaf/configurations/tree/master/widgets/network-info.widget) [pubic_ip](https://github.com/ahmadassaf/configurations/tree/master/widgets/public_ip.widget) [swap-usage](https://github.com/ahmadassaf/configurations/tree/master/widgets/swap-usage.widget) [top-cpu](https://github.com/ahmadassaf/configurations/tree/master/widgets/top-cpu.widget) [top-mem](https://github.com/ahmadassaf/configurations/tree/master/widgets/top-mem.widget) [network-throughput](https://github.com/ahmadassaf/configurations/blob/master/widgets/network-throughput.coffee.buggy) and [total-mem](https://github.com/ahmadassaf/configurations/tree/master/widgets/total-mem.widget)
 
 #### Installation
 
