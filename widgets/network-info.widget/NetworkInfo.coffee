@@ -1,5 +1,5 @@
 # Execute the shell command.
-command: "NetworkInfo.widget/NetworkInfo.sh"
+command: "network-info.widget/NetworkInfo.sh"
 
 # Set the refresh frequency (milliseconds).
 refreshFrequency: 5000
@@ -26,10 +26,10 @@ update: (output, domEl) ->
     # If there is an IP Address, we should show the connected icon. Otherwise we show the disable icon.
     # If there is no IP Address, we show "Not Connected" rather than the missing IP Address.
     if svc.ipaddress == ''
-      html += "  <img class='icon' src='NetworkInfo.widget/images/" + svc.name + "_disabled.png'/>"
+      html += "  <img class='icon' src='network-info.widget/images/" + svc.name + "_disabled.png'/>"
       html += "  <p class='primaryInfo'>Not Connected</p>"
     else
-      html += "  <img class='icon' src='NetworkInfo.widget/images/" + svc.name + ".png'/>"
+      html += "  <img class='icon' src='network-info.widget/images/" + svc.name + ".png'/>"
       html += "  <p class='primaryInfo'>" + svc.ipaddress + "</p>"
 
     # Show the Mac Address.
