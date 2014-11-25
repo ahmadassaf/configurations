@@ -15,14 +15,12 @@ echo "";
 if [[ ! $REPLY =~ ^[nN]$ ]]; then
 	echo "Pushing back any changes to the forket repositories\n"
 	grep path .gitmodules | sed 's/.*= //' | while read -r line ; do
-    if [[ $line != "gitignore" ]]; then
-	    # update the forked github repo
-	    echo "pushing changes on repository: ${magenta}$line${NC} on remote: ${red}$REPLY${NC}";
-	    #git -C "$SOURCE_LOCATION/$line" status
-	    git -C "$SOURCE_LOCATION/$line" add --all
-	    git -C "$SOURCE_LOCATION/$line" commit -m "automatic updating of repository via update script"
-	    git -C "$SOURCE_LOCATION/$line" push "$REPLY" master
-  	fi
+    # update the forked github repo
+    echo "pushing changes on repository: ${magenta}$line${NC} on remote: ${red}$REPLY${NC}";
+    #git -C "$SOURCE_LOCATION/$line" status
+    git -C "$SOURCE_LOCATION/$line" add --all
+    git -C "$SOURCE_LOCATION/$line" commit -m "automatic updating of repository via update script"
+    git -C "$SOURCE_LOCATION/$line" push "$REPLY" master
 	done
 fi
 

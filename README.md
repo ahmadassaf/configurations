@@ -49,10 +49,37 @@ In the `Geeklets/` folder there is a backup of the deprecated Geeklet scripts th
 In the `Flat Icons .icns Format` you will find the set of flat icons i have used for my mounted HDD icons and the dock. 
 To easily change application icons, i suggest you use [LiteIcon](http://www.macupdate.com/app/mac/24764/liteicon) which can be also installed via my `caskfile.sh`
 
-To further customize the dock, i use [Dockmod](http://spyresoft.com/dockmod/) which is the most feature-rich application for dock theming with support up to OSX Yosemite in order to provide a transparent Dock background. 
+To further customize the dock, i use [Dockmod](http://spyresoft.com/dockmod/) which is the most feature-rich application for dock theming with support up to OSX Yosemite in order to provide a transparent Dock background. Dockmod can be also installed via my `caskfile`.
 
 I also remove the arrow icons for aliases/shortcuts which can be done automatically when executing my `.osx` file or manually by typing the following command in the terminal:
-`mv "/System/Library/CoreServices/CoreTypes.bundle/Contents/Resources/AliasBadgeIcon.icns" "/System/Library/CoreServices/CoreTypes.bundle/Contents/Resources/AliasBadgeIcon_OFF.icns"`
+`mv /System/Library/CoreServices/CoreTypes.bundle/Contents/Resources/AliasBadgeIcon.icns /System/Library/CoreServices/CoreTypes.bundle/Contents/Resources/AliasBadgeIcon_OFF.icns`
+
+### Finder
+
+Although i have the latest OSX Yosemite update, i am still unhappy with the capabilities of the Finder. I have found that [PathFinder](http://www.cocoatech.com/pathfinder/) is a great replacement. Just head over and you can check the list of things you can do with this great piece of software.
+
+### Other Tools
+
+- **[Flexiglass](http://www.nulana.com/flexiglass/)**: Flexiglass features complete and convenient window management with exclusive multi-touch gestures support, offering a simple way to manage many windows on a Mac with a mouse, keyboard, trackpad, and graphics tablet. It includes different tools to move, resize, and arrange windows on the screen easily and joyfully.
+- [Bartender](http://www.macbartender.com/): Bartender lets you organize your menu bar apps, by hiding them, rearranging them, or moving them to Bartender's Bar. You can display the full menu bar, set options to have menu bar items show in the menu bar when they have updated, or have them always visible in Bartender's Bar.
+- **[Alfred](http://www.alfredapp.com/)**: Alfred saves you time when you search for files online or on your Mac. Be more productive with hotkeys, keywords and file actions at your fingertips. It is super useful with the **powerpack** activated with features like clipboard history.
+- **[Caffeine](http://lightheadsw.com/caffeine/)**: Caffeine is a tiny program that puts an icon in the right side of your menu bar. Click it to prevent your Mac from automatically going to sleep, dimming the screen or starting screen savers.
+
+## Setting-up the Machine 
+
+Developers are very picky about their working environment. We may consolidate various `.` files tailed for our tastes over years and track the change in a version control system. It’s no secret that on the UNIX world, dotfiles play a very important part when it comes to making your terminal look good. Be it on Linux, be it on a Mac. Dotfiles are there so you can configure your favorite software to look just the way you like it.
+
+Dotfiles can be used to customize the look of the terminal, to manage bundles with Vim and saving configuration for almost anything. 
+
+One thing that normally annoys me, is the fact that whenever I rebuild my machine (or build a new one) I need to copy over my dotfiles, and obviously make sure they are kept up-to-date on all my devices when I change something.
+
+My configuration consists of the following items:
+
+- Mac OSX terminal with bash shell configured with a forked [bash-it](http://github.com/ahmadassaf/bash-it) configurations
+- iTerm2 terminal with zsh shell configured with a forked [oh-my-zsh](http://github.com/ahmadassaf/oh-my-zsh) configurations
+- A cloned `gitignore` repo for easy fetching of `.gitignore` files into various projects 
+- A Custom set of [dotfiles](http://github.com/ahmadassaf/dotfiles) for various machine-wide configurations
+
 
 
 

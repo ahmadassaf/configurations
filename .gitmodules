@@ -4,7 +4,7 @@
 
 [submodule "gitignore"]
 	path = gitignore
-	url = https://github.com/github/gitignore
+	url = https://github.com/ahmadassaf/gitignore
 
 [submodule "bash-it"]
 	path = bash-it
