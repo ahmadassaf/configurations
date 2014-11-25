@@ -6,8 +6,8 @@ echo "\n ===========================================================
  =========================================================== \n"
 
 # Colors Configurations
-export magenta='\033[31m'
-export red='\033[35m'
+export magenta='\033[35m'
+export red='\033[31m'
 export NC='\033[0m'
 
 # Find the location of the script, this brings out the location of the current directory
