@@ -19,8 +19,16 @@ There is already a nice set of widgets published in the [gallery](http://traceso
 
 - [simple-date](https://github.com/ahmadassaf/configurations/blob/master/widgets/simple-date.coffee) for the date and time in the middle of the screen
 - [prayer](https://github.com/ahmadassaf/configurations/tree/master/widgets/prayer.widget) to show the Muslim prayer times for my area, the green indicating the current active prayer time
-- `weather` to show the nice weather forecast 
-- **System Stats** using [disk-usage](https://github.com/ahmadassaf/configurations/tree/master/widgets/disk-usage.widget) [network-info](https://github.com/ahmadassaf/configurations/tree/master/widgets/network-info.widget) [pubic_ip](https://github.com/ahmadassaf/configurations/tree/master/widgets/public_ip.widget) [swap-usage](https://github.com/ahmadassaf/configurations/tree/master/widgets/swap-usage.widget) [top-cpu](https://github.com/ahmadassaf/configurations/tree/master/widgets/top-cpu.widget) [top-mem](https://github.com/ahmadassaf/configurations/tree/master/widgets/top-mem.widget) [network-throughput](https://github.com/ahmadassaf/configurations/blob/master/widgets/network-throughput.coffee.buggy) and [total-mem](https://github.com/ahmadassaf/configurations/tree/master/widgets/total-mem.widget)
+- [weather](https://github.com/ahmadassaf/configurations/tree/master/widgets/weather.widget) to show the nice weather forecast. It uses the [Free Geo IP](http://freegeoip.net/) API to obtain your location, and the [Yahoo Weather API](https://developer.yahoo.com/weather/) to obtain the weather information.
+- **System Stats**
+    - [disk-usage](https://github.com/ahmadassaf/configurations/tree/master/widgets/disk-usage.widget): Shows disk usage for mounted disks, with the option to exclude specific disks.
+    - [network-info](https://github.com/ahmadassaf/configurations/tree/master/widgets/network-info.widget): Displays current Ethernet and Wi-Fi status (connected / not connected / IP Address / Mac Address.
+    - [pubic_ip](https://github.com/ahmadassaf/configurations/tree/master/widgets/public_ip.widget): Displays the current public IP address.
+    - [swap-usage](https://github.com/ahmadassaf/configurations/tree/master/widgets/swap-usage.widget): Display swap file metrics for your system.
+    - [top-cpu](https://github.com/ahmadassaf/configurations/tree/master/widgets/top-cpu.widget): Shows CPU usage summary.
+    - [top-mem](https://github.com/ahmadassaf/configurations/tree/master/widgets/top-mem.widget): Shows a memory usage summary.
+    - [network-throughput](https://github.com/ahmadassaf/configurations/blob/master/widgets/network-throughput.coffee.buggy): Shows incoming and outgoing throughput on a user-specified network interface.
+    - [total-mem](https://github.com/ahmadassaf/configurations/tree/master/widgets/total-mem.widget): Total system memory benchmarks.
 
 #### Installation
 
