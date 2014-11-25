@@ -73,13 +73,54 @@ Dotfiles can be used to customize the look of the terminal, to manage bundles wi
 
 One thing that normally annoys me, is the fact that whenever I rebuild my machine (or build a new one) I need to copy over my dotfiles, and obviously make sure they are kept up-to-date on all my devices when I change something.
 
-My configuration consists of the following items:
+My configuration consists of the following:
 
 - Mac OSX terminal with bash shell configured with a forked [bash-it](http://github.com/ahmadassaf/bash-it) configurations
 - iTerm2 terminal with zsh shell configured with a forked [oh-my-zsh](http://github.com/ahmadassaf/oh-my-zsh) configurations
 - A cloned `gitignore` repo for easy fetching of `.gitignore` files into various projects 
 - A Custom set of [dotfiles](http://github.com/ahmadassaf/dotfiles) for various machine-wide configurations
 
+# Installation 
+
+First of all you will have to clone this repository into your local machine, and since there are a bunch of other git modules in this repo, you will need to recursively clone this repository and all of it children using:
+
+`git clone --recursive http://github.com/ahmadassaf/Configurations`
+
+Afterwards you can launch the installation by running `sh install.sh`. What this will do is:
+
+- It will ask you if you would like to run an update using the `update.sh` script. Usually this is good when you have lots of changes in your repos and you wish to fetch all the changes afterwards, but simply skip this if this is a fresh installation.
+- It will install the `oh-my-zsh` scripts by symlinking the folder and the `zshrc` into the `~` folder. 
+- It will prompt if you wish to install `zsh-syntax-highlighting` and does that automatically.
+- It will install the `bash-it` script files and guide throughout the installation process.
+- It will prompt if you would like to add the Aliases defined also to your `zsh` aliases *recommended*
+- It will symlink the dotfiles into your `~` folder.
+- It will install `homebrew` and the following brew formulas:
+
+    + **Core Modules** coreutils, moreutils, findutils, binutils
+    + **Bash, Bash plugins** bash, bash-completion, zsh
+    + **Development** git, heroku, node, mercurial
+    + **Git speific addons** git-extras, hub, bfg
+    + **Utilities** htop-osx, id3tool, lesspipe, ssh-copy-id, the_silver_searcher, tree, fcrackzip, foremost, ack, p7zip, pigz, pv, gnu-sed, vim, wget
+    + **Network tools** dns2tcp, knock, rename, webkit2png
+    + **[Dupes](https://github.com/Homebrew/homebrew-dupes)** grep, screen
+    
+- It will install `cask` and the following applications:
+
+    + **Utilities** path-finder, alfred, cakebrew, a-better-finder-rename, fastscripts, bettertouchtool, iterm2, launchrocket, gyazo, ubersicht, dockmod, liteicon, cleanmymac, bartender, flexiglass
+    + **Productivity* todoist, evernote, mendeley-desktop, fantastical, slack, screenhero
+    + **Development** sublime-text3, atom, sourcetree, github, brackets, coda, tower, transmission-remote-gui, macvim, sqlite-database-browser, lightpaper, codebox, anvil, hex-fiend, ksdiff
+    + **Internet, Networking** firefox, google-chrome, charles, dropbox, google-drive, mailbox, viber, utorrent, plex-media-server
+    + **Misc** vlc, imagealpha, imageoptim, steam, the-unarchiver, spotify, handbrake
+    + **Quick Look plugins** betterzipql, qlcolorcode, qlmarkdown, qlprettypatch, qlstephen, quicklook-csv, quicklook-json, quicknfo, suspicious-package, webp-quicklook
+    + **Color pickers** colorpicker-developer, colorpicker-skalacolo 
+
+- It will aggregate the `iTerm` and `Terminal` themes as prompt you for the name of the color scheme you want to apply and apply it for you
+- It will prompt if you would like to run the `.osx` file which contains some system wide modifications and runs it for you.
+I recommend that you read the `.osx` file and enable or disable the features that you like. I also create some symlinks there for my Sublime Text 3 configurations and the widgets of Übersicht.
+
+## Updates
+
+Simply run `sh update.sh` and it will take care of the rest
 
 
 
