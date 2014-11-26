@@ -48,16 +48,28 @@ fi
 # or by setting it before the end of the install pipeline like this:
 # curl -L https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/install.sh | ZSH=~/.dotfiles/zsh sh, for use copying the .oh-my-zsh and the .zshrc will do
 
-read -p "Would you like to install zsh-syntax-highlighting ? [Y/N] " -n 1;
-echo "";
-if [[ $REPLY =~ ^[Yy]$ ]]; then
-	if [[ ! -d ${HOME}/.oh-my-zsh/zsh-syntax-highlighting ]]; then
+if [[ -d ${HOME}/.oh-my-zsh/zsh-syntax-highlighting ]]; then
+	read -p "Would you like to install zsh-syntax-highlighting ? [Y/N] " -n 1;
+	echo "";
+	if [[ $REPLY =~ ^[Yy]$ ]]; then
 
 		echo "Installing ${magenta}zsh Syntax highlighting${NC} ... \n"
 
 		# Installing zsh-syntax-highlighting(https://github.com/zsh-users/zsh-syntax-highlighting), inspired by Fish's syntax highlighting
-		git clone "git://github.com/zsh-users/zsh-syntax-highlighting.git" "${HOME}/.oh-my-zsh/zsh-syntax-highlighting"
-		mv "${HOME}/.oh-my-zsh/.gitmodules.extra" "${HOME}/.oh-my-zsh/.gitmodules"
+		#git clone "git://github.com/zsh-users/zsh-syntax-highlighting.git" "${HOME}/.oh-my-zsh/zsh-syntax-highlighting"
+		# Add the submodule so that it will refreshed on future updates
+
+		touch "${HOME}/.oh-my-zsh/.gitmodules"
+
+		echo "[submodule "zsh-syntax-highlighting"]
+		path = zsh-syntax-highlighting
+		url = https://github.com/zsh-users/zsh-syntax-highlighting.git" >> "${HOME}/.oh-my-zsh/.gitmodules"
+		# Add the zsh-syntax-highlighting plugin
+		# mkdir "${HOME}/.oh-my-zsh/plugins/zsh-syntax-highlighting"
+		# ln -s "${HOME}/.oh-my-zsh/zsh-syntax-highlighting/zsh-syntax-highlighting.plugin.zsh" "${HOME}/.oh-my-zsh/plugins/zsh-syntax-highlighting/zsh-syntax-highlighting.plugin.zsh"
+
+		# activate zsh-syntax-highlighting by adding to source
+		echo "\n\nsource ~/.oh-my-zsh/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh" >> "${HOME}/.zshrc"
 	fi
 fi
 
