@@ -5,10 +5,12 @@ echo "\n ===========================================================
             ${magenta}Installing Machine Configurations${NC}
  =========================================================== \n"
 
-# Colors Configurations
+# Colors and visual Configurations
 export magenta='\033[35m'
 export red='\033[31m'
 export NC='\033[0m'
+export BLINK='\033[5m'
+export NORMAL='\033[0'
 
 # Find the location of the script, this brings out the location of the current directory
 export SCRIPT_DIRECTORY="$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )"
@@ -16,7 +18,7 @@ export SCRIPT_DIRECTORY="$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )"
 # The source directory and target directories.
 export SOURCE_LOCATION="$SCRIPT_DIRECTORY" # Contains the files and directories I want to work with.
 
-echo "${red}Please skip the update if this is a fresh install...${NC}"
+echo "${BLINK}${red}Please skip the update if this is a fresh install...${NC}"
 read -p "Would you like to run an update on all the modules. Are you sure? [Y/N] " -n 1;
 echo "";
 if [[ $REPLY =~ ^[Yy]$ ]]; then
@@ -109,7 +111,8 @@ sh "${HOME}/.bash_it/install.sh"
 
 # add the .zsh alias files by combining the general and custom alias of the bash-it
 
-echo "Checking if the .zsh custom alias contains the combination of the bash-it alias files"
+echo ""
+echo "Checking if the ${red}.zsh${NC} custom alias contains the ${magenta}combination of the bash-it alias files${NC}"
 
 read -p "Would you like to overwrite the default .zsh aliases in your home directory. Are you sure? [Y/N] " -n 1;
 echo "";

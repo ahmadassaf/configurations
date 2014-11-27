@@ -52,7 +52,10 @@ To easily change application icons, i suggest you use [LiteIcon](http://www.macu
 To further customize the dock, i use [Dockmod](http://spyresoft.com/dockmod/) which is the most feature-rich application for dock theming with support up to OSX Yosemite in order to provide a transparent Dock background. Dockmod can be also installed via my `caskfile`.
 
 I also remove the arrow icons for aliases/shortcuts which can be done automatically when executing my `.osx` file or manually by typing the following command in the terminal:
-`mv /System/Library/CoreServices/CoreTypes.bundle/Contents/Resources/AliasBadgeIcon.icns /System/Library/CoreServices/CoreTypes.bundle/Contents/Resources/AliasBadgeIcon_OFF.icns`
+
+```shell
+mv /System/Library/CoreServices/CoreTypes.bundle/Contents/Resources/AliasBadgeIcon.icns /System/Library/CoreServices/CoreTypes.bundle/Contents/Resources/AliasBadgeIcon_OFF.icns
+```
 
 ### Finder
 
