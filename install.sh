@@ -161,6 +161,16 @@ if [[ $REPLY =~ ^[Yy]$ ]]; then
 	sh "${HOME}/.osx"
 fi
 
+echo "\n ============================================
+                ${red}Powerline Fonts${NC}
+ ============================================ \n"
+
+read -p "This will install Powerline Fonts. Are you sure? [Y/N] " -n 1;
+echo "";
+if [[ $REPLY =~ ^[Yy]$ ]]; then
+	sh "$SOURCE_LOCATION/Powerline-fonts/install.sh"
+fi
+
 echo "\n ${magenta}Enjoy the new configurations ....${NC}\n"
 
 ############################## HELPER FUNCTION ##################################
