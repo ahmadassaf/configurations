@@ -108,7 +108,7 @@ Afterwards you can launch the installation by running `sh install.sh`. What this
 
     + **Utilities** path-finder, alfred, cakebrew, a-better-finder-rename, fastscripts, bettertouchtool, iterm2, launchrocket, gyazo, ubersicht, dockmod, liteicon, cleanmymac, bartender, flexiglass
     + **Productivity** todoist, evernote, mendeley-desktop, fantastical, slack, screenhero
-    + **Development** sublime-text3, atom, sourcetree, github, brackets, coda, tower, transmission-remote-gui, macvim, sqlite-database-browser, lightpaper, codebox, anvil, hex-fiend, ksdiff
+    + **Development** sublime-text3, atom, sourcetree, github, brackets, coda, tower, transmission-remote-gui, macvim, sqlite-database-browser, lightpaper, codebox, anvil, hex-fiend, ksdiff, codekit, MAMP
     + **Internet, Networking** firefox, google-chrome, charles, dropbox, google-drive, mailbox, viber, utorrent, plex-media-server
     + **Misc** vlc, imagealpha, imageoptim, steam, the-unarchiver, spotify, handbrake
     + **Quick Look plugins** betterzipql, qlcolorcode, qlmarkdown, qlprettypatch, qlstephen, quicklook-csv, quicklook-json, quicknfo, suspicious-package, webp-quicklook

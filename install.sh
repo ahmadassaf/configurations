@@ -56,17 +56,14 @@ if [[ ! -d ${HOME}/.oh-my-zsh/zsh-syntax-highlighting ]]; then
 		echo "Installing ${magenta}zsh Syntax highlighting${NC} ... \n"
 
 		# Installing zsh-syntax-highlighting(https://github.com/zsh-users/zsh-syntax-highlighting), inspired by Fish's syntax highlighting
-		#git clone "git://github.com/zsh-users/zsh-syntax-highlighting.git" "${HOME}/.oh-my-zsh/zsh-syntax-highlighting"
-		# Add the submodule so that it will refreshed on future updates
+		git clone "git://github.com/zsh-users/zsh-syntax-highlighting.git" "${HOME}/.oh-my-zsh/zsh-syntax-highlighting"
 
+		# Add the submodule so that it will refreshed on future updates
 		touch "${HOME}/.oh-my-zsh/.gitmodules"
 
 		echo "[submodule \"zsh-syntax-highlighting\"]
 		path = zsh-syntax-highlighting
 		url = https://github.com/zsh-users/zsh-syntax-highlighting.git" >> "${HOME}/.oh-my-zsh/.gitmodules"
-		# Add the zsh-syntax-highlighting plugin
-		# mkdir "${HOME}/.oh-my-zsh/plugins/zsh-syntax-highlighting"
-		# ln -s "${HOME}/.oh-my-zsh/zsh-syntax-highlighting/zsh-syntax-highlighting.plugin.zsh" "${HOME}/.oh-my-zsh/plugins/zsh-syntax-highlighting/zsh-syntax-highlighting.plugin.zsh"
 
 		# activate zsh-syntax-highlighting by adding to source
 		echo "\n\nsource ~/.oh-my-zsh/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh" >> "${HOME}/.zshrc"
