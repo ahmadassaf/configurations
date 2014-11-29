@@ -42,11 +42,11 @@ One element that i use that is not part of Übersicht is [Dateline](https://itun
 
 ### Geeklets
  
-In the `Geeklets/` folder there is a backup of the deprecated Geeklet scripts that i used with the old Geektool. If you still prefer it over Übersicht then feel free to use them.
+In the `geeklets/` folder there is a backup of the deprecated Geeklet scripts that i used with the old Geektool. If you still prefer it over Übersicht then feel free to use them.
 
 ### Dock & Desktop Icons
 
-In the `Flat Icons .icns Format` you will find the set of flat icons i have used for my mounted HDD icons and the dock. 
+In the `flat-icons` you will find the set of flat icons i have used for my mounted HDD icons and the dock. 
 To easily change application icons, i suggest you use [LiteIcon](http://www.macupdate.com/app/mac/24764/liteicon) which can be also installed via my `caskfile.sh`
 
 To further customize the dock, i use [Dockmod](http://spyresoft.com/dockmod/) which is the most feature-rich application for dock theming with support up to OSX Yosemite in order to provide a transparent Dock background. Dockmod can be also installed via my `caskfile`.
@@ -97,10 +97,12 @@ Afterwards you can launch the installation by running `sh install.sh`. What this
 - It will install the `bash-it` script files and guide throughout the installation process.
 - It will prompt if you would like to add the Aliases defined also to your `zsh` aliases *recommended*
 - It will symlink the dotfiles into your `~` folder.
+- It will prompt if you wish to install type-based `ls`
+- It will prompt if you wish to install `grc` for command output coloring
 - It will install `homebrew` and the following brew formulas:
 
     + **Core Modules** coreutils, moreutils, findutils, binutils
-    + **Bash, Bash plugins** bash, bash-completion, zsh
+    + **Bash, Bash plugins** bash, bash-completion, zsh, grc
     + **Development** git, heroku, node, mercurial
     + **Git speific addons** git-extras, hub, bfg
     + **Utilities** htop-osx, id3tool, lesspipe, ssh-copy-id, the_silver_searcher, tree, fcrackzip, foremost, ack, p7zip, pigz, pv, gnu-sed, vim, wget
@@ -120,6 +122,8 @@ Afterwards you can launch the installation by running `sh install.sh`. What this
 - It will aggregate the `iTerm` and `Terminal` themes as prompt you for the name of the color scheme you want to apply and apply it for you
 - It will prompt if you would like to run the `.osx` file which contains some system wide modifications and runs it for you.
 I recommend that you read the `.osx` file and enable or disable the features that you like. I also create some symlinks there for my Sublime Text 3 configurations and the widgets of Übersicht.
+- It will install the [powerline fonts](https://github.com/ahmadassaf/powerline-fonts)
+- It will prompt if you wish to set the bash to the updated version installed by Homebrew
 
 ## Updates
 
