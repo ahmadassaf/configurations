@@ -89,6 +89,10 @@ First of all you will have to clone this repository into your local machine, and
 
 `git clone --recursive http://github.com/ahmadassaf/Configurations`
 
+**Note** If you have cloned without --recursive, you may find out that some folders are empty. To fix this:
+
+`git submodule update --init`
+
 Afterwards you can launch the installation by running `sh install.sh`. What this will do is:
 
 - It will ask you if you would like to run an update using the `update.sh` script. Usually this is good when you have lots of changes in your repos and you wish to fetch all the changes afterwards, but simply skip this if this is a fresh installation.
