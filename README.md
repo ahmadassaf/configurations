@@ -107,7 +107,7 @@ Afterwards you can launch the installation by running `sh install.sh`. What this
 
     + **Core Modules** coreutils, moreutils, findutils, binutils
     + **Bash, Bash plugins** bash, bash-completion, zsh, grc
-    + **Development** git, heroku, node, mercurial
+    + **Development** git, heroku, node, mercurial, iojs
     + **Git speific addons** git-extras, hub, bfg
     + **Utilities** htop-osx, id3tool, lesspipe, ssh-copy-id, the_silver_searcher, tree, fcrackzip, foremost, ack, p7zip, pigz, pv, gnu-sed, vim, wget
     + **Network tools** dns2tcp, knock, rename, webkit2png
