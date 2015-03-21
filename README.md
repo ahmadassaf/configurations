@@ -67,6 +67,7 @@ Although i have the latest OSX Yosemite update, i am still unhappy with the capa
 - [Bartender](http://www.macbartender.com/): Bartender lets you organize your menu bar apps, by hiding them, rearranging them, or moving them to Bartender's Bar. You can display the full menu bar, set options to have menu bar items show in the menu bar when they have updated, or have them always visible in Bartender's Bar.
 - **[Alfred](http://www.alfredapp.com/)**: Alfred saves you time when you search for files online or on your Mac. Be more productive with hotkeys, keywords and file actions at your fingertips. It is super useful with the **powerpack** activated with features like clipboard history.
 - **[Caffeine](http://lightheadsw.com/caffeine/)**: Caffeine is a tiny program that puts an icon in the right side of your menu bar. Click it to prevent your Mac from automatically going to sleep, dimming the screen or starting screen savers.
+- **[Flashlight](https://github.com/nate-parrott/Flashlight)**: Flashlight is an unofficial Spotlight API that allows you to programmatically process queries and add additional results. It's very rough right now, and a horrendous hack, but a fun proof of concept.
 
 ## Setting-up the Machine 
 
