@@ -1,5 +1,5 @@
 user          = 'ahmadassaf'
-apiKey        = '674eb9d5fa31767ce918b620908a317f45a122b6'
+apiKey        = '7df6388bbbee4e0637f90da9d69c311d297208ec'
 publicApi     = 'https://api.github.com'
 enterpriseApi = '<your github enterprise api url here>'
 enterprise    = false
