@@ -1,6 +1,6 @@
 
-In every developer time, there comes a time when he has to set-up his new working environment. For me, the transition from Windows powered PC to a Mac OSX powered laptop was one of the best things i did in my carer. I found the openness of things you can do on a Unix based system accompanied with a solid appealing set of software. 
-However, setting everything the way you **want** it can be time consuming, so i decided after few trials and errors to share my experience in customizing my machine and how it can be easily transfered into other machines as well.
+In every developer time, there comes a time when he has to set-up his new working environment. For me, the transition from Windows powered PC to a Mac OSX powered laptop was one of the best things I did in my career. I found the openness of things you can do on a Unix based system accompanied with a solid appealing set of software. 
+However, setting everything the way you **want** it can be time consuming, so i decided after few trials and errors to share my experience in customizing my machine and how it can be easily transferred into other machines as well.
 
 ## Customizing the UI
 
@@ -33,7 +33,7 @@ There is already a nice set of widgets published in the [gallery](http://traceso
 #### Installation
 
 - Installing Übersicht can be bone using the downloadable [zip file](http://tracesof.net/uebersicht/releases/Uebersicht-0.3.13.app.zip) or the recommended using would be via cask (which i will explain later) via `brew cask install ubersicht`
-- Installing the widgets is done by copying the **contents** of the widgets folder into `Library -> Application Support -> Übersicht -> widgets`. However, what i do is i setup my widgets to be in my Github repo or dropbox folder so that they are synced and can be backed up and i link the folder directly to the desired location via `ln -s ~/Projects/Configurations/config/widgets/ ~/Library/Application\ Support/Übersicht/widgets` where the first parameter is the location of the `widgets/` folder cloned.
+- Installing the widgets is done by copying the **contents** of the widgets folder into `Library -> Application Support -> Übersicht -> widgets`. However, what i do is i setup my widgets to be in my Github repo or dropbox folder so that they are synced and can be backed up and i link the folder directly to the desired location via `ln -s ~/Projects/Configurations/config/widgets/ ~/Library/Application\ Support/U¨bersicht/widgets` where the first parameter is the location of the `widgets/` folder cloned.
 **Note** I have included the folder link in my `.osx` file, you may need to adjust the path of the first argument.
 
 ### Other Widgets
@@ -67,7 +67,7 @@ Although i have the latest OSX Yosemite update, i am still unhappy with the capa
 - [Bartender](http://www.macbartender.com/): Bartender lets you organize your menu bar apps, by hiding them, rearranging them, or moving them to Bartender's Bar. You can display the full menu bar, set options to have menu bar items show in the menu bar when they have updated, or have them always visible in Bartender's Bar.
 - **[Alfred](http://www.alfredapp.com/)**: Alfred saves you time when you search for files online or on your Mac. Be more productive with hotkeys, keywords and file actions at your fingertips. It is super useful with the **powerpack** activated with features like clipboard history.
 - **[Caffeine](http://lightheadsw.com/caffeine/)**: Caffeine is a tiny program that puts an icon in the right side of your menu bar. Click it to prevent your Mac from automatically going to sleep, dimming the screen or starting screen savers.
-- **[Flashlight](https://github.com/nate-parrott/Flashlight)**: Flashlight is an unofficial Spotlight API that allows you to programmatically process queries and add additional results. It's very rough right now, and a horrendous hack, but a fun proof of concept.
+- **[Flashlight](https://github.com/nate-parrott/Flashlight)**: Flashlight is an unofficial Spotlight API that allows you to pro grammatically process queries and add additional results. It's very rough right now, and a horrendous hack, but a fun proof of concept.
 
 ## Setting-up the Machine 
 
