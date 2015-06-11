@@ -1,12 +1,12 @@
 
-In every developer time, there comes a time when he has to set-up his new working environment. For me, the transition from Windows powered PC to a Mac OSX powered laptop was one of the best things I did in my career. I found the openness of things you can do on a Unix based system accompanied with a solid appealing set of software. 
+In every developer time, there comes a time when he has to set-up his new working environment. For me, the transition from Windows powered PC to a Mac OSX powered laptop was one of the best things I did in my career. I found the openness of things you can do on a Unix based system accompanied with a solid appealing set of software.
 However, setting everything the way you **want** it can be time consuming, so i decided after few trials and errors to share my experience in customizing my machine and how it can be easily transferred into other machines as well.
 
 ## Customizing the UI
 
 ![screenshot of my OSX Yosemite Desktop](https://github.com/ahmadassaf/configurations/blob/master/screenshots/mac_osx_desktop.png)
 
-First, lets start with the light weight things. The desktop and general UI enhancement. I always love to show some nice widgets on my desktop, for that i am using [Übersicht](http://tracesof.net/uebersicht/). I have used [Geektool](http://projects.tynsoe.org/en/geektool/) which basically allows you to run custom scripts and display them on the desktop, but i wasn't at all happy with the experience of styling those "widgets" and the availability of 3rd party widgets. 
+First, lets start with the light weight things. The desktop and general UI enhancement. I always love to show some nice widgets on my desktop, for that i am using [Übersicht](http://tracesof.net/uebersicht/). I have used [Geektool](http://projects.tynsoe.org/en/geektool/) which basically allows you to run custom scripts and display them on the desktop, but i wasn't at all happy with the experience of styling those "widgets" and the availability of 3rd party widgets.
 **Übersicht** lets you run system commands and display their output on your desktop in little containers, called widgets. Widgets are written using HTML5, which means they are:
 
 - Easy to write and customize
@@ -41,12 +41,12 @@ There is already a nice set of widgets published in the [gallery](http://traceso
 One element that i use that is not part of Übersicht is [Dateline](https://itunes.apple.com/us/app/dateline/id406119724?mt=12). It is a discrete desktop calendar with support to iCal and other calendar applications.
 
 ### Geeklets
- 
+
 In the `geeklets/` folder there is a backup of the deprecated Geeklet scripts that i used with the old Geektool. If you still prefer it over Übersicht then feel free to use them.
 
 ### Dock & Desktop Icons
 
-In the `flat-icons` you will find the set of flat icons i have used for my mounted HDD icons and the dock. 
+In the `flat-icons` you will find the set of flat icons i have used for my mounted HDD icons and the dock.
 To easily change application icons, i suggest you use [LiteIcon](http://www.macupdate.com/app/mac/24764/liteicon) which can be also installed via my `caskfile.sh`
 
 To further customize the dock, i use [Dockmod](http://spyresoft.com/dockmod/) which is the most feature-rich application for dock theming with support up to OSX Yosemite in order to provide a transparent Dock background. Dockmod can be also installed via my `caskfile`.
@@ -70,11 +70,29 @@ Although i have the latest OSX Yosemite update, i am still unhappy with the capa
 - **[Flashlight](https://github.com/nate-parrott/Flashlight)**: Flashlight is an unofficial Spotlight API that allows you to pro grammatically process queries and add additional results. It's very rough right now, and a horrendous hack, but a fun proof of concept.
 - **[uBar](http://brawersoftware.com/products/ubar)**: uBar aims at replacing the Mac Dock. It helps you find the window you're looking for at a glance. If an application has more than one window, you'll know right away. Click that application to open the window menu, which allows you to bring any window or even just the application itself to focus. You can turn window grouping off, and all your individual windows will be shown right in uBar.
 
-## Setting-up the Machine 
+#### Alfred Workflows
+
+Workflows are one of the key features in Alfred v2; They provide a way for you to extend Alfred to perform the tasks you need more efficiently.
+
+For example, with a workflow, you can launch a group of applications from a hotkey, create custom search filters for frequent searches or run scripts from a keyword.
+
+The Workflows i use are (Located in the `workflows` folder):
+
+ - **Fantastical**: Allow for easy adding of calendar events.
+ - **Kill Process**: When a process hangs, it’s a hassle to open Activity Monitor, search for it, and kill it. Once again, Alfred makes a repetitive task much faster.
+ - **Shorten URL**: Shortening URLs (for tweets, emails, etc.) is a pain; you have to go to the website you want, enter your URL, wait for the transformation to occur, copy it, and move on. This allows for a quicker process across all the famous URL shorteners.
+ - **StackOverflow**: Search StackOverflow questions directly.
+ - **[Encode/Decode:](https://github.com/willfarrell/alfred-encode-decode-workflow)**: Encoding and decoding a string into multiple variations
+ - **[Github:](https://github.com/gharlan/alfred-github-workflow)** A bunch of Github commands integrations for Alfred.
+ - **Search Safari and Chrome Tabs:** Search tabs in Safari and Chrome (also supports WebKit, Chromium, and Chrome Canary)
+
+[Workflows Reference](https://github.com/hzlzh/Alfred-Workflows)
+
+## Setting-up the Machine
 
 Developers are very picky about their working environment. We may consolidate various `.` files tailed for our tastes over years and track the change in a version control system. It’s no secret that on the UNIX world, dotfiles play a very important part when it comes to making your terminal look good. Be it on Linux, be it on a Mac. Dotfiles are there so you can configure your favorite software to look just the way you like it.
 
-Dotfiles can be used to customize the look of the terminal, to manage bundles with Vim and saving configuration for almost anything. 
+Dotfiles can be used to customize the look of the terminal, to manage bundles with Vim and saving configuration for almost anything.
 
 One thing that normally annoys me, is the fact that whenever I rebuild my machine (or build a new one) I need to copy over my dotfiles, and obviously make sure they are kept up-to-date on all my devices when I change something.
 
@@ -82,10 +100,10 @@ My configuration consists of the following:
 
 - Mac OSX terminal with bash shell configured with a forked [bash-it](http://github.com/ahmadassaf/bash-it) configurations
 - iTerm2 terminal with zsh shell configured with a forked [oh-my-zsh](http://github.com/ahmadassaf/oh-my-zsh) configurations
-- A cloned `gitignore` repo for easy fetching of `.gitignore` files into various projects 
+- A cloned `gitignore` repo for easy fetching of `.gitignore` files into various projects
 - A Custom set of [dotfiles](http://github.com/ahmadassaf/dotfiles) for various machine-wide configurations
 
-# Installation 
+# Installation
 
 First of all you will have to clone this repository into your local machine, and since there are a bunch of other git modules in this repo, you will need to recursively clone this repository and all of it children using:
 
@@ -98,7 +116,7 @@ First of all you will have to clone this repository into your local machine, and
 Afterwards you can launch the installation by running `sh install.sh`. What this will do is:
 
 - It will ask you if you would like to run an update using the `update.sh` script. Usually this is good when you have lots of changes in your repos and you wish to fetch all the changes afterwards, but simply skip this if this is a fresh installation.
-- It will install the `oh-my-zsh` scripts by symlinking the folder and the `zshrc` into the `~` folder. 
+- It will install the `oh-my-zsh` scripts by symlinking the folder and the `zshrc` into the `~` folder.
 - It will prompt if you wish to install `zsh-syntax-highlighting` and does that automatically.
 - It will install the `bash-it` script files and guide throughout the installation process.
 - It will prompt if you would like to add the Aliases defined also to your `zsh` aliases *recommended*
@@ -114,7 +132,7 @@ Afterwards you can launch the installation by running `sh install.sh`. What this
     + **Utilities** htop-osx, id3tool, lesspipe, ssh-copy-id, the_silver_searcher, tree, fcrackzip, foremost, ack, p7zip, pigz, pv, gnu-sed, vim, wget
     + **Network tools** dns2tcp, knock, rename, webkit2png
     + **[Dupes](https://github.com/Homebrew/homebrew-dupes)** grep, screen
-    
+
 - It will install `cask` and the following applications:
 
     + **Utilities** path-finder, alfred, cakebrew, a-better-finder-rename, fastscripts, bettertouchtool, iterm2, launchrocket, gyazo, ubersicht, dockmod, liteicon, cleanmymac, bartender, flexiglass
@@ -123,7 +141,7 @@ Afterwards you can launch the installation by running `sh install.sh`. What this
     + **Internet, Networking** firefox, google-chrome, charles, dropbox, google-drive, mailbox, viber, utorrent, plex-media-server
     + **Misc** vlc, imagealpha, imageoptim, steam, the-unarchiver, spotify, handbrake
     + **Quick Look plugins** betterzipql, qlcolorcode, qlmarkdown, qlprettypatch, qlstephen, quicklook-csv, quicklook-json, quicknfo, suspicious-package, webp-quicklook
-    + **Color pickers** colorpicker-developer, colorpicker-skalacolo 
+    + **Color pickers** colorpicker-developer, colorpicker-skalacolo
 
 - It will aggregate the `iTerm` and `Terminal` themes as prompt you for the name of the color scheme you want to apply and apply it for you
 - It will prompt if you would like to run the `.osx` file which contains some system wide modifications and runs it for you.
