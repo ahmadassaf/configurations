@@ -183,6 +183,12 @@ if [[ $REPLY =~ ^[Yy]$ ]]; then
 	sudo sh -c "curl https://raw.githubusercontent.com/mrowa44/emojify/master/emojify -o /usr/local/bin/emojify && chmod +x /usr/local/bin/emojify"
 fi
 
+read -p "This will install npm globals. Are you sure? [Y/N] " -n 1;
+echo "";
+if [[ $REPLY =~ ^[Yy]$ ]]; then
+	sh "${HOME}/.npm_globals.sh"
+fi
+
 echo "\n ${magenta}Enjoy the new configurations ....${NC}\n"
 
 ############################## HELPER FUNCTION ##################################
