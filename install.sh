@@ -171,12 +171,6 @@ if [[ $REPLY =~ ^[Yy]$ ]]; then
 	sh "$SOURCE_LOCATION/Powerline-fonts/install.sh"
 fi
 
-read -p "This will set the bash to the updated version installed by Homebrew. Are you sure? [Y/N] " -n 1;
-echo "";
-if [[ $REPLY =~ ^[Yy]$ ]]; then
-	chsh "/usr/local/Cellar/bash/4.3.30/bin/bash"
-fi
-
 read -p "This will install Emojis for terminal. Are you sure? [Y/N] " -n 1;
 echo "";
 if [[ $REPLY =~ ^[Yy]$ ]]; then

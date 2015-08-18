@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/local/Cellar/bash/4.3.39/bin/bash
 
 # This function will start our JSON text.
 startJSON() {
