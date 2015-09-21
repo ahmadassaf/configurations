@@ -17,3 +17,7 @@
 [submodule "powerline-fonts"]
 	path = powerline-fonts
 	url = https://github.com/ahmadassaf/powerline-fonts
+
+[submodule "Themes"]
+	path = Themes
+	url = https://github.com/ahmadassaf/themes
