@@ -14,10 +14,6 @@
 	path = oh-my-zsh
 	url = https://github.com/ahmadassaf/oh-my-zsh
 
-[submodule "Themes"]
-	path = Themes
-	url = https://github.com/ahmadassaf/themes
-
 [submodule "powerline-fonts"]
 	path = powerline-fonts
 	url = https://github.com/ahmadassaf/powerline-fonts
