@@ -102,7 +102,7 @@ if [[ -d ${HOME}/.bash_it ]]; then
 fi
 
 if [[ ! -d ${HOME}/.bash_it ]]; then
-	# symlink the oh-my-zsh to the home directory
+	# symlink the bash-it to the home directory
 	ln -s "$SOURCE_LOCATION/bash-it" "${HOME}/.bash_it"
 fi
 
@@ -182,6 +182,13 @@ echo "";
 if [[ $REPLY =~ ^[Yy]$ ]]; then
 	sh "${HOME}/.npm_globals.sh"
 fi
+
+echo "\n ${red}Installing NVM ....${NC}\n"
+# Instal NVM to install Node.js
+curl -o- https://raw.githubusercontent.com/creationix/nvm/v0.27.1/install.sh | bash
+echo "source ~/.nvm/nvm.sh" >> "${HOME}/.bash_profile"
+
+nvm install stable
 
 echo "\n ${magenta}Enjoy the new configurations ....${NC}\n"
 
