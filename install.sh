@@ -183,6 +183,12 @@ if [[ $REPLY =~ ^[Yy]$ ]]; then
 	sh "${HOME}/.npm_globals.sh"
 fi
 
+read -p "This will install pip packaged. Are you sure? [Y/N] " -n 1;
+echo "";
+if [[ $REPLY =~ ^[Yy]$ ]]; then
+	sh "${HOME}/.pip_globals.sh"
+fi
+
 echo "\n ${red}Installing NVM ....${NC}\n"
 # Instal NVM to install Node.js
 curl -o- https://raw.githubusercontent.com/creationix/nvm/v0.27.1/install.sh | bash
