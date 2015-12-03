@@ -1,5 +1,5 @@
 user          = 'ahmadassaf'
-apiKey        = '7df6388bbbee4e0637f90da9d69c311d297208ec'
+apiKey        = 'fb313aeedaf20bc2a26c7805f997acb04a29f87e'
 publicApi     = 'https://api.github.com'
 enterpriseApi = '<your github enterprise api url here>'
 enterprise    = false
@@ -50,15 +50,10 @@ style: """
     user-select: none;
   }
 
-  sub {
-    line-height: 0;
-    bottom: -0.25em;
-  }
-
   .count-group {
     display: inline-block;
-    width: 50px;
-    font-size: 24px;
+    width: 55px;
+    font-size: 30px;
     text-align: center;
   }
 
@@ -74,10 +69,16 @@ style: """
   }
 
   .public .count {
-    color: #606060;
-    font-weight:bold;
+    color: #ffffff;
+    font-weight: normal;
     font-family: Sans-Serif;
-    margin: 0
+    margin: 0;
+    background: rgba(235, 84, 82, 0.75);
+    border-radius: 50%;
+    padding: 4px;
+    font-size: 10px;
+    bottom: 0px;
+    position: absolute
   }
 
 """
