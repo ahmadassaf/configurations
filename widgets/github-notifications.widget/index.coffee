@@ -1,5 +1,5 @@
 user          = 'ahmadassaf'
-apiKey        = 'fb313aeedaf20bc2a26c7805f997acb04a29f87e'
+apiKey        = 'e67b48105d0dab40cc803f56b17de5728485cd3f'
 publicApi     = 'https://api.github.com'
 enterpriseApi = '<your github enterprise api url here>'
 enterprise    = false
@@ -74,11 +74,11 @@ style: """
     font-family: Sans-Serif;
     margin: 0;
     background: rgba(235, 84, 82, 0.75);
-    border-radius: 50%;
-    padding: 4px;
-    font-size: 10px;
-    bottom: 0px;
-    position: absolute
+    padding: 3px;
+    font-size: 9px;
+    bottom: 7px;
+    position: absolute;
+    width:10px;
   }
 
 """
