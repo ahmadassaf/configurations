@@ -20,11 +20,9 @@ style: """
   color: #000
   padding: 4px 6px 4px 6px
   border-radius: 5px
-
   img
     height: 26px
     margin-bottom: -3px
-
   a
     margin-left: -3px
 """
