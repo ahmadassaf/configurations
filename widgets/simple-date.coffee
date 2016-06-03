@@ -17,7 +17,7 @@ style: """
 
 
   /*POSITION*/
-  top: 20%
+  top: 18%
   left: 50%
 
   /*COLORS*/
