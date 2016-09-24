@@ -1,16 +1,5 @@
-user          = 'ahmadassaf'
-apiKey        = 'e67b48105d0dab40cc803f56b17de5728485cd3f'
-publicApi     = 'https://api.github.com'
-enterpriseApi = '<your github enterprise api url here>'
-enterprise    = false
-
-api = if enterprise then enterpriseApi else publicApi
-
-cmd = "curl -s --user #{user}:#{apiKey} -s #{api}/notifications"
-
-command: cmd
-
-enterprise: enterprise
+# Execute the shell command.
+command: "github-notifications.widget/data.sh"
 
 refreshFrequency: 150000
 
@@ -20,11 +9,6 @@ style: """
 
   .github-notifications {
     padding: 10px;
-  }
-
-  .enterprise {
-    color: #FFF;
-    background-color: #2A2C2E;
   }
 
   @font-face {
@@ -63,9 +47,13 @@ style: """
   }
 
   .count {
-    font-size: 10px;
-    padding: 2px 3px;
-    margin-left: -5px;
+    font-size: 8px;
+    padding: 3px;
+    position: absolute;
+    bottom: 5px
+    background: #000;
+    color: #fff;
+    font-family: Tahoma;
   }
 
   .public .count {
@@ -106,7 +94,7 @@ getVisual: (output) ->
     data = JSON.parse output
   catch ex
     return """
-      <div class='github-notifications #{if @enterprise then "enterprise" else "public"}'>
+      <div class='github-notifications public}'>
         <span>Error Retrieving Notifications!</span>
       </div>
     """
@@ -135,7 +123,7 @@ getVisual: (output) ->
     icons.push "<div class='count-group'><span class='octicon'>#{icon[1]}</span>#{count}</div>"
 
   return """
-    <div class='github-notifications #{if @enterprise then "enterprise" else "public"}'>
+    <div class='github-notifications public}'>
       #{icons.join('')}
     </div>
   """
