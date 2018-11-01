@@ -5,7 +5,7 @@ refreshFrequency: 150000
 
 style: """
   right: 10px;
-  top: 10px;
+  top: 40px;
 
   .github-notifications {
     padding: 10px;

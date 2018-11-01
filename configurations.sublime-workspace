@@ -1,0 +1,3093 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"node",
+				"node_modules"
+			],
+			[
+				"exec",
+				"execute"
+			],
+			[
+				"repo",
+				"repositories\t(.zshrc)"
+			],
+			[
+				"loca",
+				"clean_local_branches"
+			],
+			[
+				"ssh",
+				"sshrc\t(.brewfile.sh)"
+			],
+			[
+				"Conf",
+				"Configuring\t(README.md)"
+			],
+			[
+				"bash",
+				"bash_profile\t(README.md)"
+			],
+			[
+				"compl",
+				"completion\t(README.md)"
+			],
+			[
+				"alias",
+				"aliases\t(README.md)"
+			],
+			[
+				"reposit",
+				"repositories\t(README.md)"
+			],
+			[
+				"pus",
+				"pushUpdates"
+			],
+			[
+				"firs",
+				"first_name"
+			],
+			[
+				"new",
+				"newUser"
+			],
+			[
+				"regis",
+				"registration"
+			],
+			[
+				"navi",
+				"navigation"
+			],
+			[
+				"check",
+				"checkLoggingStatus"
+			],
+			[
+				"pass",
+				"passport"
+			],
+			[
+				"des",
+				"description"
+			],
+			[
+				"tempor",
+				"temporalCoverageTo"
+			],
+			[
+				"desc",
+				"describedBy"
+			],
+			[
+				"gene",
+				"generateGroupReport"
+			],
+			[
+				"report",
+				"reportGenerator"
+			],
+			[
+				"sec",
+				"sectionKey"
+			],
+			[
+				"reso",
+				"resources"
+			],
+			[
+				"un",
+				"unreachableTypes"
+			],
+			[
+				"ele",
+				"elementKey"
+			],
+			[
+				"unre",
+				"unreachableTypes"
+			],
+			[
+				"a",
+				"aggregateReport"
+			],
+			[
+				"aggre",
+				"aggregateReport"
+			],
+			[
+				"unr",
+				"unreachableTypes"
+			],
+			[
+				"add",
+				"addObject"
+			],
+			[
+				"obje",
+				"objectKey"
+			],
+			[
+				"res",
+				"resourceType"
+			],
+			[
+				"resour",
+				"resourceType"
+			],
+			[
+				"chec",
+				"checkEmpty"
+			],
+			[
+				"ch",
+				"checkEmpty"
+			],
+			[
+				"profile",
+				"profilesFolder"
+			],
+			[
+				"asy",
+				"asyncCallback"
+			],
+			[
+				"re",
+				"retreiveProfiles"
+			],
+			[
+				"save",
+				"saveProfile"
+			],
+			[
+				"acc",
+				"accessProfiler"
+			],
+			[
+				"pro",
+				"provenanceProfiler"
+			],
+			[
+				"ge",
+				"generalProfiler"
+			],
+			[
+				"gt",
+				"getProfile"
+			],
+			[
+				"genera",
+				"generalProfiler"
+			],
+			[
+				"get",
+				"getProfile"
+			],
+			[
+				"proven",
+				"provenanceProfiler"
+			],
+			[
+				"owner",
+				"ownershipProfiler"
+			],
+			[
+				"act",
+				"actualLength"
+			],
+			[
+				"ac",
+				"actualLength"
+			],
+			[
+				"prof",
+				"profileChanged"
+			],
+			[
+				"repor",
+				"reportMessage"
+			],
+			[
+				"dis",
+				"disambiguations_error"
+			],
+			[
+				"secti",
+				"sectionKey"
+			],
+			[
+				"elem",
+				"elementKey"
+			],
+			[
+				"section",
+				"section"
+			],
+			[
+				"agg",
+				"aggregateReport"
+			],
+			[
+				"obj",
+				"objectKey"
+			],
+			[
+				"cout",
+				"counterSection"
+			],
+			[
+				"isA",
+				"isAggregate"
+			],
+			[
+				"ob",
+				"objectToPush"
+			],
+			[
+				"create",
+				"createTitleHead"
+			],
+			[
+				"print",
+				"printConnectivityIssues"
+			],
+			[
+				"pret",
+				"prettyPrintAggregationReport"
+			],
+			[
+				"cac",
+				"cachedFileName"
+			],
+			[
+				"sav",
+				"saveProfile"
+			],
+			[
+				"cach",
+				"cachedProfiles"
+			],
+			[
+				"data",
+				"dataset"
+			],
+			[
+				"ca",
+				"cachedProfiles"
+			],
+			[
+				"is",
+				"is_organization"
+			],
+			[
+				"organizt",
+				"organization"
+			],
+			[
+				"or",
+				"organiztionProfile"
+			],
+			[
+				"lic",
+				"licenseID"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"meta",
+				"metadtaKeys"
+			],
+			[
+				"norm",
+				"normalized"
+			],
+			[
+				"li",
+				"license_id"
+			],
+			[
+				"er",
+				"error"
+			],
+			[
+				"async",
+				"asyncCallback"
+			],
+			[
+				"map",
+				"mapping"
+			],
+			[
+				"ma",
+				"mapping"
+			],
+			[
+				"up",
+				"toUpperCase"
+			],
+			[
+				"lice",
+				"license_id"
+			],
+			[
+				"to",
+				"toUpperCase"
+			],
+			[
+				"cahc",
+				"cache_foldername"
+			],
+			[
+				"proto",
+				"prototype"
+			],
+			[
+				"cache",
+				"cache_folder"
+			],
+			[
+				"stat",
+				"statisticsReport"
+			],
+			[
+				"profi",
+				"profileTemplate"
+			],
+			[
+				"resource",
+				"resourceProfiling"
+			],
+			[
+				"prot",
+				"prototype"
+			],
+			[
+				"ex",
+				"excludeList"
+			],
+			[
+				"mer",
+				"mergeReports"
+			],
+			[
+				"e",
+				"element"
+			],
+			[
+				"mis",
+				"missingGroupAggregateReport"
+			],
+			[
+				"gro",
+				"groupAggregateReport"
+			],
+			[
+				"grou",
+				"groupAggregateReport"
+			],
+			[
+				"resou",
+				"resource_size"
+			],
+			[
+				"etn",
+				"entryMessage"
+			],
+			[
+				"entr",
+				"entryMessage"
+			],
+			[
+				"gen",
+				"generateGroupProfiler"
+			],
+			[
+				"asyn",
+				"asyncCallback"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"pr",
+				"promptSave"
+			],
+			[
+				"num",
+				"num_resources"
+			],
+			[
+				"arra",
+				"arrayReport"
+			],
+			[
+				"pat",
+				"pathArray"
+			],
+			[
+				"getLi",
+				"getLicenseInformation"
+			],
+			[
+				"vali",
+				"validator"
+			],
+			[
+				"ur",
+				"urlsToCheck"
+			],
+			[
+				"auth",
+				"author_email"
+			],
+			[
+				"key",
+				"keywords"
+			],
+			[
+				"Sublime",
+				"SublimeText"
+			],
+			[
+				"N",
+				"NC"
+			],
+			[
+				"iter",
+				"itermcolors"
+			],
+			[
+				"ant",
+				"ant_targets"
+			],
+			[
+				"zsh",
+				"zshrc"
+			],
+			[
+				"dat",
+				"datasetEnricher"
+			],
+			[
+				"conc",
+				"concepts"
+			],
+			[
+				"doc",
+				"documentID"
+			],
+			[
+				"con",
+				"concepts"
+			],
+			[
+				"crea",
+				"createGraphRelation"
+			],
+			[
+				"as",
+				"asyncCallback"
+			],
+			[
+				"anno",
+				"annotations"
+			],
+			[
+				"d",
+				"documentBuilder"
+			],
+			[
+				"pa",
+				"pageUrl"
+			],
+			[
+				"title",
+				"title_model"
+			],
+			[
+				"dataset",
+				"datasetProfiler"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/Users/ahmadassaf/.zshrc",
+			"settings":
+			{
+				"buffer_size": 3607,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "bash-it/README.md",
+			"settings":
+			{
+				"buffer_size": 27104,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "bash-it/lib/appearance.bash",
+			"settings":
+			{
+				"buffer_size": 884,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "oh-my-zsh/lib/theme-and-appearance.zsh",
+			"settings":
+			{
+				"buffer_size": 1950,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "cite about-plugin\nabout-plugin 'Initialize any variable or conf required by Sonar and Sonar Scanner'\n\nalias startSonar_debug=\"sh /etc/sonar/bin/macosx-universal-64/sonar.sh console\"\nalias startSonar=\"sh /etc/sonar/bin/macosx-universal-64/sonar.sh start\"\nalias stopSonar=\"sh /etc/sonar/bin/macosx-universal-64/sonar.sh stop\"\nexport PATH=\"$PATH:/etc/sonar-scanner/bin\"\n\nfunction backdoor();",
+			"file": "bash-it/plugins/available/sonar.plugin.bash",
+			"file_size": 367,
+			"file_write_time": 131314689690000000,
+			"settings":
+			{
+				"buffer_size": 388,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "bash-it/completion/available/rabbitmq.completion.bash",
+			"settings":
+			{
+				"buffer_size": 5218,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					""
+				],
+				[
+					"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/LaTeXTools/LaTeX.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/LaTeXing/LaTeX.sublime-build",
+					""
+				],
+				[
+					"Packages/LaTeXing/LaTeX.sublime-build",
+					"Primary Quick Build"
+				],
+				[
+					"Packages/LaTeXing/LaTeX.sublime-build",
+					"Choose Quick Build"
+				],
+				[
+					"Packages/LaTeXing/LaTeX.sublime-build",
+					"Clean up Files"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					""
+				],
+				[
+					"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/LaTeXing/LaTeX.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 354.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"prev",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"forma",
+				"CodeFormatter: Format as HTML Syntax"
+			],
+			[
+				"previ",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"format",
+				"JSFMT: Format the current file"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"reind",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"sshtm",
+				"Set Syntax: HTML"
+			],
+			[
+				"sshsh",
+				"Set Syntax: Shell Script (Bash)"
+			],
+			[
+				"sssparq",
+				"Set Syntax: SPARQL"
+			],
+			[
+				"preview",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"shel",
+				"SublimeREPL: Shell"
+			],
+			[
+				"trai",
+				"Trailing Spaces: Delete Trailing Spaces"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"upgra",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: List Packages"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"dif c",
+				"Git: Diff Tool Current File"
+			],
+			[
+				"dif",
+				"Git: Diff All Files"
+			],
+			[
+				"ssshe",
+				"Set Syntax: Shell Script (Bash)"
+			],
+			[
+				"sscoffe",
+				"Set Syntax: Gulpfile Coffee"
+			],
+			[
+				"markd",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"markdow",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"FORMA",
+				"Format: Javascript"
+			],
+			[
+				"SSJSO",
+				"Set Syntax: JSON"
+			],
+			[
+				"isntal",
+				"Package Control: Install Package"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"ssjade",
+				"Set Syntax: Jade"
+			],
+			[
+				"space",
+				"Trailing Spaces: Delete Trailing Spaces"
+			],
+			[
+				"commen",
+				"Snippet: Comment - Section header comment"
+			],
+			[
+				"fora",
+				"Format: Javascript"
+			],
+			[
+				"ssejs",
+				"Set Syntax: EJS (<% and %>)"
+			],
+			[
+				"ssjs",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"ssjad",
+				"Set Syntax: Jade"
+			],
+			[
+				"setsyn htm",
+				"Set Syntax: HTML"
+			],
+			[
+				"remov",
+				"Package Control: Remove Package"
+			],
+			[
+				"his",
+				"File History: Open recently closed file (All Projects)"
+			],
+			[
+				"markdo",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"empty",
+				"Trimmer: Delete empty lines."
+			],
+			[
+				"sslate",
+				"Set Syntax: LaTeX"
+			],
+			[
+				"rein",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"alig",
+				"AlignTab: Live Preview Mode"
+			],
+			[
+				"hist",
+				"File History: Open recently closed file (All Projects)"
+			],
+			[
+				"histyo",
+				"File History: Open recently closed file (All Projects)"
+			],
+			[
+				"align",
+				"AlignTab: Live Preview Mode"
+			],
+			[
+				"diff",
+				"Git: Diff Current File"
+			],
+			[
+				"modif",
+				"Modific: Show diff"
+			],
+			[
+				"sslatex",
+				"Set Syntax: LaTeX"
+			],
+			[
+				"git di",
+				"Git: Diff Current File"
+			],
+			[
+				"ssjso",
+				"Set Syntax: JSON"
+			],
+			[
+				"rei",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"json",
+				"json2xml pretty"
+			],
+			[
+				"form",
+				"Format: Javascript"
+			],
+			[
+				"the",
+				"Themr: List themes"
+			],
+			[
+				"them",
+				"Themr: List themes"
+			],
+			[
+				"thee",
+				"Themr: List themes"
+			],
+			[
+				"theme",
+				"Themr: List themes"
+			],
+			[
+				"jshi",
+				"JSHint"
+			],
+			[
+				"lint",
+				"Tag: Lint Selection or Document"
+			],
+			[
+				"eind",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"histor",
+				"Git: Commit history"
+			],
+			[
+				"rind",
+				"Tag: Remove All Tags in Document"
+			],
+			[
+				"sssh",
+				"Set Syntax: Shell Script (Bash)"
+			],
+			[
+				"sscss",
+				"Set Syntax: CSS"
+			],
+			[
+				"ssbash",
+				"Set Syntax: Shell Script (Bash)"
+			],
+			[
+				"ssshel",
+				"Set Syntax: Shell Script (Bash)"
+			],
+			[
+				"ss she",
+				"Set Syntax: Shell Script (Bash)"
+			],
+			[
+				"colo",
+				"Color Picker"
+			],
+			[
+				"color",
+				"Color Picker"
+			],
+			[
+				"appl",
+				"Set Syntax: AppleScript"
+			],
+			[
+				"sparq",
+				"Set Syntax: SPARQL"
+			],
+			[
+				"sss",
+				"Set Syntax: SQL"
+			],
+			[
+				"for",
+				"Format: Javascript"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"REIND",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"sshtml",
+				"Set Syntax: HTML"
+			],
+			[
+				"push",
+				"Git: Push Current Branch"
+			],
+			[
+				"quic",
+				"Git: Quick Commit"
+			],
+			[
+				"add",
+				"Git: Add..."
+			],
+			[
+				"quick",
+				"Git: Quick Commit"
+			],
+			[
+				"git add",
+				"Git: Add..."
+			],
+			[
+				"qui",
+				"Git: Quick Commit"
+			],
+			[
+				"ssjson",
+				"Set Syntax: JSON"
+			],
+			[
+				"REMOVE",
+				"Package Control: Remove Package"
+			],
+			[
+				"INSTA",
+				"Package Control: Install Package"
+			],
+			[
+				"INSTAL",
+				"Package Control: Install Package"
+			],
+			[
+				"SSPHP",
+				"Set Syntax: PHP"
+			],
+			[
+				"ssphp",
+				"Set Syntax: PHP"
+			],
+			[
+				"ssxml",
+				"Set Syntax: XML"
+			],
+			[
+				"sssq",
+				"Set Syntax: SQL"
+			],
+			[
+				"mark",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"markdiw",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"mar",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"markdw",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"git push",
+				"Git: Push Current Branch"
+			],
+			[
+				"reint",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"ssh",
+				"Set Syntax: HTML"
+			],
+			[
+				"orig",
+				"Origami: Destroy Current Pane"
+			],
+			[
+				"origa",
+				"Origami: Destroy Current Pane"
+			],
+			[
+				"git",
+				"Git: Init"
+			],
+			[
+				"reimd",
+				"Tag: Remove All Tags in Document"
+			],
+			[
+				"ready",
+				"Snippet: jQuery ready function"
+			],
+			[
+				"co",
+				"Color Picker"
+			],
+			[
+				"browse",
+				"Preferences: Browse Packages"
+			],
+			[
+				"fetch",
+				"Fetch: File"
+			],
+			[
+				"fet",
+				"Fetch: Package"
+			],
+			[
+				"fetc",
+				"Fetch: Package"
+			],
+			[
+				"ajax",
+				"Snippet: jQuery AJAX call"
+			],
+			[
+				"html",
+				"Snippet: html"
+			],
+			[
+				"read",
+				"Snippet: jQuery ready function"
+			],
+			[
+				"tag",
+				"Code Folding: Fold Tag Attributes"
+			],
+			[
+				"ssbas",
+				"Set Syntax: Shell Script (Bash)"
+			],
+			[
+				"aligne",
+				"Preferences: Alignment Key Bindings – Default"
+			],
+			[
+				"brows",
+				"Preferences: Browse Packages"
+			],
+			[
+				"i",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 575.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"sublime.log_input(False)",
+			"sublime.log_input(True)",
+			"sublime.log_input(true)",
+			"sublime.log_inout(true)",
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/ahmadassaf/Dropbox/Projects/Configurations",
+		"/Users/ahmadassaf/Dropbox/Projects/Configurations/bash-it",
+		"/Users/ahmadassaf/Dropbox/Projects/Configurations/bash-it/completion",
+		"/Users/ahmadassaf/Dropbox/Projects/Configurations/bash-it/completion/available",
+		"/Users/ahmadassaf/Dropbox/Projects/Configurations/bash-it/plugins",
+		"/Users/ahmadassaf/Dropbox/Projects/Configurations/bash-it/plugins/available",
+		"/Users/ahmadassaf/Dropbox/Projects/Configurations/oh-my-zsh",
+		"/Users/ahmadassaf/Dropbox/Projects/Configurations/oh-my-zsh/lib"
+	],
+	"file_history":
+	[
+		"/Users/ahmadassaf/Dropbox/Projects/Beamery/api-plugin-orm/AUTHORS",
+		"/Users/ahmadassaf/.bash_profile",
+		"/Users/ahmadassaf/Dropbox/Projects/Configurations/bash-it/plugins/available/git-wtf.plugin.rb",
+		"/Users/ahmadassaf/Dropbox/Projects/Configurations/bash-it/plugins/available/beamery/plugins/track_all_remote_git_branches.bash",
+		"/Users/ahmadassaf/Dropbox/Projects/Configurations/bash-it/plugins/available/beamery/plugins/switch_git_branch_and_update.bash",
+		"/Users/ahmadassaf/Dropbox/Projects/Configurations/bash-it/plugins/available/beamery/plugins/switch_git_branch.bash",
+		"/Users/ahmadassaf/Dropbox/Projects/Configurations/bash-it/plugins/available/beamery/plugins/generate_npm_report.bash",
+		"/Users/ahmadassaf/Dropbox/Projects/Configurations/bash-it/plugins/available/beamery/plugins/update_git_branch.bash",
+		"/Users/ahmadassaf/Dropbox/Projects/Configurations/bash-it/plugins/available/beamery/plugins/clean_npm_modules.bash",
+		"/Users/ahmadassaf/Dropbox/Projects/Configurations/bash-it/plugins/available/beamery/plugins/clean_git_stash.bash",
+		"/Users/ahmadassaf/Dropbox/Projects/Configurations/bash-it/plugins/available/beamery/plugins/clean_git_remote_branches.bash",
+		"/Users/ahmadassaf/Dropbox/Projects/Configurations/bash-it/plugins/available/beamery/plugins/clean_git_local_branches.bash",
+		"/Users/ahmadassaf/Dropbox/Projects/Configurations/bash-it/plugins/available/beamery/plugins/audit_git_branches.bash",
+		"/Users/ahmadassaf/Dropbox/Projects/Configurations/bash-it/plugins/available/beamery/pluginsInterface.bash",
+		"/Users/ahmadassaf/Dropbox/Projects/Configurations/bash-it/plugins/available/beamery/plugins/list_git_active_branch.bash",
+		"/Users/ahmadassaf/Dropbox/Projects/Configurations/oh-my-zsh/plugins/beamery/plugins/clean_git_stash.zsh",
+		"/Users/ahmadassaf/Dropbox/Projects/Configurations/bash-it/plugins/available/beamery/plugins/link_node_modules.bash",
+		"/Users/ahmadassaf/Dropbox/Projects/Configurations/bash-it/plugins/available/sonar.plugin.bash",
+		"/Users/ahmadassaf/Dropbox/Projects/Configurations/oh-my-zsh/plugins/beamery/pluginsInterface.zsh",
+		"/Users/ahmadassaf/Dropbox/Projects/Beamery/api-core/test.sh",
+		"/Users/ahmadassaf/Dropbox/Projects/Configurations/oh-my-zsh/plugins/go/go.plugin.zsh",
+		"/Users/ahmadassaf/Dropbox/Projects/Configurations/oh-my-zsh/plugins/beamery/beamery.plugin.zsh",
+		"/Users/ahmadassaf/Dropbox/Projects/Configurations/oh-my-zsh/plugins/beamery/plugins/clean_git_local_branches.zsh",
+		"/Users/ahmadassaf/Dropbox/Projects/Configurations/oh-my-zsh/plugins/beamery/plugins/clean_git_branches.zsh",
+		"/Users/ahmadassaf/Dropbox/Projects/Configurations/bash-it/plugins/available/beamery/plugins/clean_git_branches.bash",
+		"/Users/ahmadassaf/Dropbox/Projects/Configurations/oh-my-zsh/plugins/beamery/plugins/clean_npm_modules.zsh",
+		"/Users/ahmadassaf/Dropbox/Projects/Configurations/oh-my-zsh/plugins/beamery/plugins/generate_npm_report.zsh",
+		"/Users/ahmadassaf/Dropbox/Projects/Configurations/oh-my-zsh/plugins/beamery/plugins/track_all_remote_git_branches.zsh",
+		"/Users/ahmadassaf/Dropbox/Projects/Configurations/bash-it/completion/available/pm2.completion.bash",
+		"/Users/ahmadassaf/Dropbox/Projects/Configurations/oh-my-zsh/plugins/beamery/plugins/clean_git_remote_branches.zsh",
+		"/Users/ahmadassaf/Dropbox/Projects/Configurations/bash-it/aliases/available/git.aliases.bash",
+		"/Users/ahmadassaf/Dropbox/Projects/Configurations/bash-it/custom/custom.aliases.bash",
+		"/Users/ahmadassaf/Dropbox/Projects/My Personal Space/blog-core/.git/hooks/pre-push",
+		"/Users/ahmadassaf/Dropbox/Projects/Configurations/oh-my-zsh/plugins/beamery/plugins/update_git_branch.zsh",
+		"/Users/ahmadassaf/Dropbox/Projects/Beamery/npm-clean-report.txt",
+		"/Users/ahmadassaf/Dropbox/Projects/Configurations/bash-it/plugins/available/beamery.plugin.bash",
+		"/Users/ahmadassaf/Dropbox/Projects/Configurations/bash-it/template/bash_profile.template.bash",
+		"/Users/ahmadassaf/Dropbox/Projects/Configurations/dotfiles/.gitconfig",
+		"/Users/ahmadassaf/Dropbox/Projects/Configurations/bash-it/lib/custom.bash",
+		"/Users/ahmadassaf/Dropbox/Projects/Configurations/bash-it/custom/custom.plugin.bash",
+		"/Users/ahmadassaf/Dropbox/Projects/Configurations/bash-it/plugins/available/rbenv.plugin.bash",
+		"/Users/ahmadassaf/Dropbox/Projects/Configurations/dotfiles/.brewfile.sh",
+		"/Users/ahmadassaf/Dropbox/Projects/Configurations/bash-it/aliases/custom.aliases.bash",
+		"/Users/ahmadassaf/Dropbox/Projects/Configurations/bash-it/plugins/available/beamery/plugins/add_remotes.bash",
+		"/Users/ahmadassaf/Dropbox/Projects/Configurations/bash-it/plugins/available/beamery/beamery.plugin.bash",
+		"/Users/ahmadassaf/Dropbox/Projects/Configurations/bash-it/completion/available/beamery.completion.bash",
+		"/Users/ahmadassaf/Dropbox/Projects/Configurations/oh-my-zsh/plugins/beamery/plugins/link_node_modules.zsh",
+		"/Users/ahmadassaf/.bash_it/plugins/available/beamery.plugin.bash",
+		"/Users/ahmadassaf/Dropbox/Projects/Configurations/configurations_linux/configure-apache.sh",
+		"/Users/ahmadassaf/Dropbox/Projects/Configurations/oh-my-zsh/README.md",
+		"/Users/ahmadassaf/Dropbox/Projects/Configurations/bash-it/completion/available/git.completion.bash",
+		"/Users/ahmadassaf/Dropbox/Projects/Configurations/bash-it/themes/powerline-multiline/powerline-multiline.theme.bash",
+		"/Users/ahmadassaf/Dropbox/Projects/Configurations/oh-my-zsh/plugins/beamery/plugins/switch_git_branch_and_update.zsh",
+		"/Users/ahmadassaf/Dropbox/Projects/Configurations/oh-my-zsh/plugins/beamery/plugins/list_git_active_branch.zsh",
+		"/Users/ahmadassaf/Dropbox/Projects/Configurations/oh-my-zsh/plugins/beamery/plugins/add_remotes.zsh",
+		"/Users/ahmadassaf/Dropbox/Projects/Configurations/bash-it/aliases/available/beamery.aliases.bash",
+		"/Users/ahmadassaf/.zshrc",
+		"/Users/ahmadassaf/Dropbox/Projects/Configurations/oh-my-zsh/plugins/auto-repos/auto-repos.plugin.zsh",
+		"/Users/ahmadassaf/Dropbox/Projects/Configurations/oh-my-zsh/plugins/beamery/plugins/switch_git_branch.zsh",
+		"/Users/ahmadassaf/Dropbox/Projects/Configurations/oh-my-zsh/plugins/beamery/beamery.help.zsh",
+		"/Users/ahmadassaf/Dropbox/Projects/Configurations/oh-my-zsh/plugins/beamery/plugins/clean-git-local-branches.zsh",
+		"/Users/ahmadassaf/Dropbox/Projects/Configurations/oh-my-zsh/plugins/beamery/plugins/clean-git-remote-branches.zsh",
+		"/Users/ahmadassaf/Dropbox/Projects/Configurations/oh-my-zsh/plugins/beamery/plugins/generate-npm-report.zsh",
+		"/Users/ahmadassaf/Dropbox/Projects/Configurations/oh-my-zsh/plugins/beamery/plugins/link-node-modules.zsh",
+		"/Users/ahmadassaf/Dropbox/Projects/Configurations/oh-my-zsh/plugins/beamery/helpers.zsh",
+		"/Users/ahmadassaf/Dropbox/Projects/Configurations/oh-my-zsh/plugins/beamery/plugins/update-git-branch.zsh",
+		"/Users/ahmadassaf/Dropbox/Projects/Configurations/oh-my-zsh/plugins/beamery/plugins/clean-git-stash.zsh",
+		"/Users/ahmadassaf/Dropbox/Projects/Configurations/oh-my-zsh/plugins/beamery/plugins/list-git-active-branches.zsh",
+		"/Users/ahmadassaf/Dropbox/Projects/Configurations/oh-my-zsh/plugins/beamery/plugins/audit-git-branches.zsh",
+		"/Users/ahmadassaf/Dropbox/Projects/Configurations/oh-my-zsh/plugins/beamery/plugins/clean-git-branches.zsh",
+		"/Users/ahmadassaf/Dropbox/Projects/Configurations/oh-my-zsh/plugins/beamery/plugins/clean-npm-modules.zsh",
+		"/Users/ahmadassaf/Dropbox/Projects/Configurations/oh-my-zsh/plugins/beamery/plugins/add-remotes.zsh",
+		"/Users/ahmadassaf/Dropbox/Projects/Configurations/oh-my-zsh/plugins/beamery/plugins/switch-git-branch-and-update.zsh",
+		"/Users/ahmadassaf/Dropbox/Projects/Configurations/oh-my-zsh/plugins/beamery/plugins/helpers.bash",
+		"/Users/ahmadassaf/Dropbox/Projects/Configurations/install.sh",
+		"/Users/ahmadassaf/Dropbox/Projects/Beamery/tool-scripts/.git/MERGE_MSG",
+		"/Users/ahmadassaf/Dropbox/Projects/Beamery/api-plugin-configs/.git/MERGE_MSG",
+		"/Users/ahmadassaf/Dropbox/Projects/Beamery/api-plugin-contacts/.git/MERGE_MSG",
+		"/Users/ahmadassaf/Dropbox/Projects/Beamery/api-plugin-orm/.git/MERGE_MSG",
+		"/Users/ahmadassaf/Dropbox/Projects/Configurations/oh-my-zsh/plugins/nvm/nvm.plugin.zsh",
+		"/Users/ahmadassaf/Dropbox/Projects/Configurations/README.md",
+		"/Users/ahmadassaf/.bashrc",
+		"/Users/ahmadassaf/Dropbox/Projects/Beamery/api-plugin-db-utils/.git/MERGE_MSG",
+		"/Users/ahmadassaf/Dropbox/Projects/Beamery/api-plugin-authentication/.git/MERGE_MSG",
+		"/Users/ahmadassaf/Dropbox/Projects/Beamery/api-mail/.git/MERGE_MSG",
+		"/Users/ahmadassaf/Dropbox/Projects/Beamery/api-core/.git/MERGE_MSG",
+		"/Users/ahmadassaf/Dropbox/Projects/Configurations/oh-my-zsh/.zshrc",
+		"/Users/ahmadassaf/Dropbox/Projects/Configurations/oh-my-zsh/oh-my-zsh.sh",
+		"/Users/ahmadassaf/Dropbox/Projects/Configurations/bash-it/lib/preexec.bash",
+		"/Users/ahmadassaf/Dropbox/Projects/Configurations/oh-my-zsh/plugins/battery/battery.plugin.zsh",
+		"/Users/ahmadassaf/Dropbox/Projects/Configurations/oh-my-zsh/plugins/brew/brew.plugin.zsh",
+		"/Users/ahmadassaf/Dropbox/Projects/Configurations/oh-my-zsh/plugins/git/git.plugin.zsh",
+		"/Users/ahmadassaf/Dropbox/Projects/Configurations/oh-my-zsh/plugins/docker/_docker",
+		"/Users/ahmadassaf/Dropbox/Projects/Configurations/dotfiles/.npm_globals.sh",
+		"/Users/ahmadassaf/Dropbox/Projects/Configurations/oh-my-zsh/lib/nvm.zsh",
+		"/Users/ahmadassaf/Dropbox/Projects/Configurations/bash-it/plugins/available/nvm.plugin.bash",
+		"/Users/ahmadassaf/Dropbox/Projects/Configurations/bash-it/completion/available/nvm.completion.bash",
+		"/Users/ahmadassaf/Dropbox/Projects/Beamery/npm-report.txt",
+		"/Users/ahmadassaf/Dropbox/Projects/Configurations/gitignore/.git/MERGE_MSG",
+		"/Users/ahmadassaf/Dropbox/Projects/Configurations/dotfiles/.git/MERGE_MSG",
+		"/Users/ahmadassaf/Dropbox/Projects/My Personal Space/postach.io/README.md",
+		"/Users/ahmadassaf/Dropbox/Projects/My Personal Space/postach.io/read",
+		"/Users/ahmadassaf/Dropbox/Projects/Beamery/api-plugin-unifier/sonar-project.properties",
+		"/Users/ahmadassaf/Dropbox/Projects/Configurations/configurations_linux/configure-ssh.sh",
+		"/Users/ahmadassaf/Dropbox/Projects/Configurations/dotfiles/.osx",
+		"/Users/ahmadassaf/Dropbox/Projects/Configurations/oh-my-zsh/.git/MERGE_MSG",
+		"/Users/ahmadassaf/Dropbox/Projects/Configurations/bash-it/.git/MERGE_MSG",
+		"/Users/ahmadassaf/Dropbox/Projects/Configurations/oh-my-zsh/plugins/beamery/README.md",
+		"/Users/ahmadassaf/Dropbox/Apps/Sublime Text 3/Packages/Package Control/Package Control.sublime-settings",
+		"/Users/ahmadassaf/Dropbox/Apps/Sublime Text 3/Packages/User/Package Control.sublime-settings",
+		"/Users/ahmadassaf/Dropbox/Projects/Beamery/api-plugin-nylas/.git/MERGE_MSG",
+		"/Users/ahmadassaf/Dropbox/Projects/Beamery/api-plugin-mysql/.git/MERGE_MSG",
+		"/Users/ahmadassaf/Dropbox/Projects/Beamery/api-plugin-mongo/.git/MERGE_MSG",
+		"/Users/ahmadassaf/Dropbox/Projects/Beamery/api-plugin-analytics/.git/MERGE_MSG",
+		"/Users/ahmadassaf/Dropbox/Projects/Beamery/api-notifications/.git/MERGE_MSG",
+		"/Users/ahmadassaf/Dropbox/Projects/Configurations/bash-it/plugins/available/git.plugin.bash",
+		"/Users/ahmadassaf/Dropbox/Projects/Configurations/configurations_linux/install.sh",
+		"/Users/ahmadassaf/Dropbox/Projects/Configurations/configurations_linux/configure-bash-it.sh",
+		"/Users/ahmadassaf/Dropbox/Projects/Configurations/bash-it/bash_it.sh",
+		"/Users/ahmadassaf/Dropbox/Projects/Configurations/bash-it/lib/composure.bash",
+		"/Users/ahmadassaf/.ssh/config",
+		"/Users/ahmadassaf/Dropbox/Projects/Configurations/bash-it/themes/powerline/powerline.theme.bash",
+		"/Users/ahmadassaf/Dropbox/Projects/Configurations/bash-it/completion/available/bosco.completion.bash",
+		"/Users/ahmadassaf/Dropbox/Projects/Configurations/configurations_linux/software-install.sh",
+		"/Users/ahmadassaf/.ssh/known_hosts",
+		"/Users/ahmadassaf/Dropbox/Projects/Configurations/bash-it/install.sh",
+		"/Users/ahmadassaf/.ssh/id_rsa",
+		"/Users/ahmadassaf/.profile"
+	],
+	"find":
+	{
+		"height": 70.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"<project>",
+			"<project>,-*.dds,-*.eot,-*.gif,-*.ico,-*.jar,-*.jpeg,-*.jpg,-*.log,-*.pdf,-*.png,-*.swf,-*.tga,-*.ttf,-*.zip",
+			"/Users/ahmadassaf/Dropbox/Projects/Configurations/bash-it,-*.dds,-*.eot,-*.gif,-*.ico,-*.jar,-*.jpeg,-*.jpg,-*.log,-*.pdf,-*.png,-*.swf,-*.tga,-*.ttf,-*.zip",
+			"/Users/ahmadassaf/Dropbox/Projects/Configurations,-*.dds,-*.eot,-*.gif,-*.ico,-*.jar,-*.jpeg,-*.jpg,-*.log,-*.pdf,-*.png,-*.swf,-*.tga,-*.ttf,-*.zip",
+			"<project>,-*.dds,-*.eot,-*.gif,-*.ico,-*.jar,-*.jpeg,-*.jpg,-*.log,-*.pdf,-*.png,-*.swf,-*.tga,-*.ttf,-*.zip",
+			"/Users/ahmadassaf/Dropbox/Projects/Configurations/bash-it,-*.dds,-*.eot,-*.gif,-*.ico,-*.jar,-*.jpeg,-*.jpg,-*.log,-*.pdf,-*.png,-*.swf,-*.tga,-*.ttf,-*.zip",
+			"/Users/ahmadassaf/Dropbox/Projects/Configurations,-*.dds,-*.eot,-*.gif,-*.ico,-*.jar,-*.jpeg,-*.jpg,-*.log,-*.pdf,-*.png,-*.swf,-*.tga,-*.ttf,-*.zip",
+			"/Users/ahmadassaf/Dropbox/Projects/Configurations/bash-it,-*.dds,-*.eot,-*.gif,-*.ico,-*.jar,-*.jpeg,-*.jpg,-*.log,-*.pdf,-*.png,-*.swf,-*.tga,-*.ttf,-*.zip",
+			"/Users/ahmadassaf/Dropbox/Projects/Configurations/bash-it/aliases,-*.dds,-*.eot,-*.gif,-*.ico,-*.jar,-*.jpeg,-*.jpg,-*.log,-*.pdf,-*.png,-*.swf,-*.tga,-*.ttf,-*.zip",
+			"/Users/ahmadassaf/Dropbox/Projects/Configurations,-*.dds,-*.eot,-*.gif,-*.ico,-*.jar,-*.jpeg,-*.jpg,-*.log,-*.pdf,-*.png,-*.swf,-*.tga,-*.ttf,-*.zip",
+			"/Users/ahmadassaf/Dropbox/Projects/Configurations/bash-it/aliases,-*.dds,-*.eot,-*.gif,-*.ico,-*.jar,-*.jpeg,-*.jpg,-*.log,-*.pdf,-*.png,-*.swf,-*.tga,-*.ttf,-*.zip",
+			"/Users/ahmadassaf/Dropbox/Projects/Configurations,-*.dds,-*.eot,-*.gif,-*.ico,-*.jar,-*.jpeg,-*.jpg,-*.log,-*.pdf,-*.png,-*.swf,-*.tga,-*.ttf,-*.zip",
+			"/Users/ahmadassaf/Dropbox/Projects/Configurations/bash-it,-*.dds,-*.eot,-*.gif,-*.ico,-*.jar,-*.jpeg,-*.jpg,-*.log,-*.pdf,-*.png,-*.swf,-*.tga,-*.ttf,-*.zip",
+			"/Users/ahmadassaf/Dropbox/Projects/Configurations,-*.dds,-*.eot,-*.gif,-*.ico,-*.jar,-*.jpeg,-*.jpg,-*.log,-*.pdf,-*.png,-*.swf,-*.tga,-*.ttf,-*.zip",
+			"/Users/ahmadassaf/Dropbox/Projects/Configurations/oh-my-zsh",
+			"/Users/ahmadassaf/Dropbox/Projects/Configurations/bash-it",
+			"/Users/ahmadassaf/Dropbox/Projects/Configurations",
+			"/Users/ahmadassaf/Dropbox/Projects/Social Web & Media/Tabeebi",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"is",
+			"grc",
+			"grc.bashrc",
+			"grc",
+			"export",
+			"-z",
+			"delete",
+			"delete-bran",
+			"cwd",
+			"zsh",
+			"${NC}",
+			"${RED}",
+			"${YELLOW}",
+			"${MAGENTA}",
+			"-",
+			"audit",
+			"_",
+			"test",
+			"execute",
+			"_arA",
+			"_arAnyAction",
+			"_arSavePwd",
+			"_armatchingPackages",
+			"done",
+			"bash-it",
+			"bash0it",
+			"[\\]",
+			"read -p",
+			"${red} ",
+			"comple",
+			"complete",
+			"_helper",
+			"export ",
+			"COMPREPLY",
+			"beamery_",
+			"bmr",
+			"complete",
+			"_bash-it-comp",
+			"current",
+			"help",
+			"examples",
+			"show_usage",
+			"node",
+			"ace",
+			"😕",
+			"😟",
+			"😕  NOTUSED?  Still using hoek?\n                                     Depcheck did not find code similar to require('hoek') or import from 'hoek'.\n                                     Check your code before removing as depcheck isn't able to foresee all ways dependencies can be used.\n                                     Use --skip-unused to skip this check.\n                                     To remove this package: npm uninstall --save hoek",
+			"😕  NOTUSED?  Still using confidence?\n                                     Depcheck did not find code similar to require('confidence') or import from 'confidence'.\n                                     Check your code before removing as depcheck isn't able to foresee all ways dependencies can be used.\n                                     Use --skip-unused to skip this check.\n                                     To remove this package: npm uninstall --save confidence",
+			"⛔️  NPM ERR!  Registry error Response code 401 (Unauthorized)",
+			"😕  NOTUSED?  Still using catbox?\n                                     Depcheck did not find code similar to require('catbox') or import from 'catbox'.\n                                     Check your code before removing as depcheck isn't able to foresee all ways dependencies can be used.\n                                     Use --skip-unused to skip this check.\n                                     To remove this package: npm uninstall --save catbox",
+			"node",
+			"font",
+			"fonts",
+			"command_exists",
+			"exec",
+			"preexec_invoke_cmd",
+			"rvm",
+			"powerline",
+			"preexec_invoke_cmd",
+			"invoke",
+			"preexec",
+			"preexec_invoke_cmdpreexec_invoke_cmd",
+			"zelda",
+			"ignore_vcs_packages",
+			"preexec_invoke_cmd",
+			"_fasd_prompt_func",
+			"__powerline_prompt_command",
+			"bashrc",
+			"fasd",
+			"command_exists",
+			"reload",
+			"exit",
+			"show_usage",
+			"exit",
+			"159",
+			"${red}",
+			"${NC}",
+			"${magenta}",
+			"${magenta}$",
+			"dotfiles",
+			"cp",
+			">>>",
+			"HEAD",
+			"]]",
+			"[[",
+			"-n 1",
+			"${NC}",
+			"${magenta}",
+			"${red}",
+			"${NC}",
+			"${magenta}",
+			"HEAD",
+			">>>",
+			">>>>",
+			"HEAD",
+			"vi",
+			"editor",
+			"github",
+			"HEAD",
+			"NVM_THEME_PROMPT_COLOR",
+			"nvm",
+			"__powerline_prompt_command",
+			"__powerline_right_segment",
+			"__powerline_rvm_prompt",
+			"__powerline_user_info_prompt",
+			"__powerline_scm_prompt",
+			"scm_prompt+=",
+			"git",
+			"rvm",
+			"__powerline_rvm_prompt",
+			"separa",
+			"name",
+			"set_rgb_color",
+			"__powerline_left_segment",
+			"i__powerline_left_segment",
+			"set_rgb_color",
+			"PROMPT_CHAR",
+			"separator",
+			"PROMPT_CHAR",
+			"separator_char",
+			"prompt_segment",
+			"vim",
+			"powerline_in_vim_prompt",
+			"__powerline_scm_prompt",
+			"nvm",
+			"prompt_nvm",
+			"scm",
+			"nvm"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"",
+			"_",
+			"-",
+			"read -q",
+			"${RED}",
+			"",
+			"beamery",
+			"",
+			"REPLY",
+			"",
+			"'",
+			"",
+			"&",
+			"",
+			"resource instances",
+			"dataset profile",
+			"dataset discovery",
+			" ",
+			"Fawcett:PatternRec:06",
+			"Kowalski:RoyalStat:72",
+			"Peukert:ICDE:11",
+			"Peukert:ICDE:12",
+			"Boyd:Article:11",
+			"Suchanek::WWW:07",
+			"Bizer:WebSemJorunal:09",
+			"Hassanzadeh:WWW:11",
+			"Finin:AAAI:09",
+			"Syed:WebSci:10",
+			"DaSilva:OTM:07",
+			"Wang:WWW:03",
+			"Reis:WWW:04",
+			"Miller:IEEE:03",
+			"Bizer:IJSWIS:09",
+			"Avitha:EuroJorunal:11",
+			"LaValle:MIT:11",
+			"Limaye:VLDB:10",
+			"~\\cite",
+			"~cite\\",
+			"Wache:IJCAI:01",
+			"LaValle:MIT:11",
+			"",
+			"Avitha:EuroJorunal:11",
+			"Gouriten:WWW:12",
+			"Hyunmo:HCI:03",
+			"Furnas:ACM:87",
+			"Miller:IEEE:03",
+			"Reis:WWW:04",
+			"Wang:WWW:03",
+			"DaSilva:OTM:07",
+			"Limaye:VLDB:10",
+			"Syed:WebSci:10",
+			"Finin:AAAI:09",
+			"Hassanzadeh:WWW:11",
+			"Lenzerini:SIGMOD:02",
+			"Tonon:ISWC:13",
+			"Assaf:ESWC:13",
+			"Assaf:WOD:12",
+			"Frischmuth:SemWebJorunal:12",
+			"Frischmuth:ISWC:13",
+			"Mihindukulasooriya:COLD:13",
+			"Bizer:IJSWIS:09",
+			"Lalithsena:WI:13",
+			"Erickson:DCV:14",
+			"Cyganiak:W3C:11",
+			"Suominen:DataSemantics:13",
+			"Acosta:ISWC:13",
+			"Mader:TBDL:12",
+			"Zaveri:SemWebJorunal:12",
+			"Mendes:EDBT:12",
+			"Furber:ECIS:11",
+			"Harth:ISWC:09",
+			"Hogan:LDOW:10",
+			"Bohm:ICDEW:10",
+			"Jentzsch:SOLOD:11",
+			"Boyd:Article:11",
+			"Assaf:DQMST:12",
+			"Flemming:Thesis:10",
+			"Suominen:IKEM:12",
+			"Hartig:ISWC:09",
+			"Flouris:EvoDyn:12",
+			"Miles:W3C:09",
+			"Isaac:W3C:09",
+			"Dagobert:DL:02",
+			"Gueret:ESWC:12",
+			"Hogan:WebSemJorunal:12",
+			"Bizer:WebSemantics:09",
+			"Prateek:Misc:13",
+			"Manyika:Report:13",
+			"Flouris:EvoDyn:12",
+			"Flemming:Thesis:10",
+			"Furber:ECIS:11",
+			"Chakrabarti:IEEE:99",
+			"BuilAranda:ISWC:13",
+			"Debattista:CoRR:14",
+			"Tummarello:ISWC:07",
+			"Bizer:WebSemantics:09",
+			"Assaf:DQMST:12",
+			"Tao:HICSS:09",
+			"Dagobert:DL:02",
+			"Harpring:Getty:10",
+			"Ruckhaus:ESWC:14",
+			"Gueret:ESWC:12",
+			"Kontokostas:WWW:14",
+			"Haslhofer:IWS:09",
+			"Hogan:SSKB:06",
+			"Harth:ISWC:09",
+			"Hartig:ISWC:09",
+			"Brin:WWW:98",
+			"Verlic:iSemantics:12",
+			"Acosta:ISWC:13",
+			"Berrueta:SFSW:08",
+			"Isaac:W3C:09",
+			"Hogan:WebSemJorunal:12",
+			"Hogan:LDOW:10",
+			"Juran:McGraw:99",
+			"Kahn:ACM:02",
+			"Kleinberg:ACM:99",
+			"Kontokostas:KESW:13",
+			"Page:TechReport:98",
+			"Mader:TBDL:12",
+			"Marie:ICS:13",
+			"Mendes:EDBT:12",
+			"Miles:W3C:09",
+			"Sirin:OWLED:08",
+			"Anisa:LDQ:14",
+			"DiNoia:iSemantics:12",
+			"PovedaVillalón:EKAW:12",
+			"Stvilia:ASIST:07"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/Users/ahmadassaf/.zshrc",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3607,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								551,
+								551
+							]
+						],
+						"settings":
+						{
+							"WordCount":
+							{
+								"changes": 0,
+								"count": 367,
+								"modified": false,
+								"selection": false,
+								"status": -1,
+								"syntax": "plain text"
+							},
+							"apply_syntax_touched": true,
+							"at_wb_tests_view": false,
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/MaterialCobalt (SL).tmTheme",
+							"editorconfig": true,
+							"ensure_newline_at_eof_on_save": true,
+							"syntax": "Packages/ShellScript/Shell-Unix-Generic.sublime-syntax",
+							"translate_tabs_to_spaces": false,
+							"trim_trailing_white_space_on_save": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "bash-it/README.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 27104,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								15077,
+								15077
+							]
+						],
+						"settings":
+						{
+							"apply_syntax_touched": true,
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/MaterialCobalt (SL).tmTheme",
+							"editorconfig": true,
+							"ensure_newline_at_eof_on_save": true,
+							"syntax": "Packages/Markdown/Markdown.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true,
+							"trim_trailing_white_space_on_save": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 7499.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "bash-it/lib/appearance.bash",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 884,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								666,
+								666
+							]
+						],
+						"settings":
+						{
+							"apply_syntax_touched": true,
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										708,
+										709
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/double_quote.png",
+										"brackethighlighter.default"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										659,
+										660
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/MaterialCobalt (SL).tmTheme",
+							"editorconfig": true,
+							"ensure_newline_at_eof_on_save": true,
+							"syntax": "Packages/ShellScript/Shell-Unix-Generic.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true,
+							"trim_trailing_white_space_on_save": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "oh-my-zsh/lib/theme-and-appearance.zsh",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1950,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1163,
+								1163
+							]
+						],
+						"settings":
+						{
+							"apply_syntax_touched": true,
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/MaterialCobalt (SL).tmTheme",
+							"editorconfig": true,
+							"ensure_newline_at_eof_on_save": true,
+							"syntax": "Packages/ShellScript/Shell-Unix-Generic.sublime-syntax",
+							"translate_tabs_to_spaces": false,
+							"trim_trailing_white_space_on_save": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 269.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "bash-it/plugins/available/sonar.plugin.bash",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 388,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								156,
+								156
+							]
+						],
+						"settings":
+						{
+							"apply_syntax_touched": true,
+							"at_wb_tests_view": false,
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										180,
+										181
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/double_quote.png",
+										"brackethighlighter.default"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										125,
+										126
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/MaterialCobalt (SL).tmTheme",
+							"editorconfig": true,
+							"ensure_newline_at_eof_on_save": true,
+							"syntax": "Packages/ShellScript/Shell-Unix-Generic.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true,
+							"trim_trailing_white_space_on_save": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "bash-it/completion/available/rabbitmq.completion.bash",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5218,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								553,
+								553
+							]
+						],
+						"settings":
+						{
+							"apply_syntax_touched": true,
+							"at_wb_tests_view": false,
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+									"1":
+									[
+										536,
+										540
+									]
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/MaterialCobalt (SL).tmTheme",
+							"editorconfig": true,
+							"ensure_newline_at_eof_on_save": true,
+							"syntax": "Packages/ShellScript/Shell-Unix-Generic.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true,
+							"trim_trailing_white_space_on_save": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 67.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.CSS Extended Completions":
+	{
+		"height": 0.0
+	},
+	"output.GitSavvy":
+	{
+		"height": 126.0
+	},
+	"output.exec":
+	{
+		"height": 224.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 126.0
+	},
+	"output.markdown":
+	{
+		"height": 126.0
+	},
+	"pinned_build_system": "",
+	"project": "configurations.sublime-project",
+	"replace":
+	{
+		"height": 114.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"them",
+				"oh-my-zsh/lib/theme-and-appearance.zsh"
+			],
+			[
+				"appea",
+				"bash-it/lib/appearance.bash"
+			],
+			[
+				"rabbit",
+				"bash-it/completion/available/rabbitmq.completion.bash"
+			],
+			[
+				"sonar",
+				"bash-it/plugins/available/sonar.plugin.bash"
+			],
+			[
+				"go.zsh",
+				"oh-my-zsh/plugins/go/go.plugin.zsh"
+			],
+			[
+				".zshr",
+				"~/.zshrc"
+			],
+			[
+				"custom.",
+				"bash-it/custom/custom.aliases.bash"
+			],
+			[
+				"update",
+				"oh-my-zsh/plugins/beamery/plugins/update_git_branch.zsh"
+			],
+			[
+				"git.ali",
+				"bash-it/aliases/available/git.aliases.bash"
+			],
+			[
+				"clean_git_re",
+				"oh-my-zsh/plugins/beamery/plugins/clean_git_remote_branches.zsh"
+			],
+			[
+				"beamery.plugin.zs",
+				"oh-my-zsh/plugins/beamery/beamery.plugin.zsh"
+			],
+			[
+				"beamery.p",
+				"bash-it/plugins/available/beamery.plugin.bash"
+			],
+			[
+				"cust",
+				"bash-it/custom/custom.aliases.bash"
+			],
+			[
+				"gitconf",
+				"dotfiles/.gitconfig"
+			],
+			[
+				"brew",
+				"dotfiles/.brewfile.sh"
+			],
+			[
+				"insta",
+				"install.sh"
+			],
+			[
+				"beamer",
+				"bash-it/aliases/available/beamery.aliases.bash"
+			],
+			[
+				"zshr",
+				"oh-my-zsh/.zshrc"
+			],
+			[
+				"oh",
+				"oh-my-zsh/oh-my-zsh.sh"
+			],
+			[
+				"beam",
+				"bash-it/plugins/available/beamery.plugin.bash"
+			],
+			[
+				"git.pl",
+				"oh-my-zsh/plugins/git/git.plugin.zsh"
+			],
+			[
+				"git",
+				"bash-it/completion/available/git.completion.bash"
+			],
+			[
+				"npm",
+				"dotfiles/.npm_globals.sh"
+			],
+			[
+				"nvm.zs",
+				"oh-my-zsh/lib/nvm.zsh"
+			],
+			[
+				"nvm.ba",
+				"bash-it/plugins/available/nvm.plugin.bash"
+			],
+			[
+				"nvm.bas",
+				"bash-it/completion/available/nvm.completion.bash"
+			],
+			[
+				".zsh",
+				"~/.zshrc"
+			],
+			[
+				"zsh",
+				"oh-my-zsh/.zshrc"
+			],
+			[
+				"aliases",
+				"bash-it/aliases/custom.aliases.bash"
+			],
+			[
+				"apache",
+				"configurations_linux/configure-apache.sh"
+			],
+			[
+				"readme",
+				"oh-my-zsh/README.md"
+			],
+			[
+				"batter",
+				"oh-my-zsh/plugins/battery/battery.plugin.zsh"
+			],
+			[
+				"_docker",
+				"oh-my-zsh/plugins/docker/_docker"
+			],
+			[
+				"read",
+				"README.md"
+			],
+			[
+				".osx",
+				"dotfiles/.osx"
+			],
+			[
+				"power",
+				"bash-it/themes/powerline-multiline/powerline-multiline.theme.bash"
+			],
+			[
+				"pre",
+				"bash-it/lib/preexec.bash"
+			],
+			[
+				"inst",
+				"install.sh"
+			],
+			[
+				"ins",
+				"install.sh"
+			],
+			[
+				"preexe",
+				"bash-it/lib/preexec.bash"
+			],
+			[
+				"powerli",
+				"bash-it/themes/powerline/powerline.theme.bash"
+			],
+			[
+				"bash_it.sh",
+				"bash-it/bash_it.sh"
+			],
+			[
+				"comp",
+				"bash-it/lib/composure.bash"
+			],
+			[
+				"git.plugin.bas",
+				"bash-it/plugins/available/git.plugin.bash"
+			],
+			[
+				".os",
+				"dotfiles/.osx"
+			],
+			[
+				"git.plugin.z",
+				"oh-my-zsh/plugins/git/git.plugin.zsh"
+			],
+			[
+				".funcio",
+				"dotfiles/.functions"
+			],
+			[
+				"custom",
+				"bash-it/lib/custom.bash"
+			],
+			[
+				"gitcon",
+				"dotfiles/.gitconfig"
+			],
+			[
+				"burea",
+				"oh-my-zsh/themes/bureau.zsh-theme"
+			],
+			[
+				"alias",
+				"bash-it/aliases/custom.aliases.bash"
+			],
+			[
+				"git.al",
+				"bash-it/aliases/enabled/git.aliases.bash"
+			],
+			[
+				"bullet",
+				"oh-my-zsh/themes/bullet-train.zsh-theme"
+			],
+			[
+				"base.theme",
+				"bash-it/themes/base.theme.bash"
+			],
+			[
+				"_brew",
+				"oh-my-zsh/plugins/brew/_brew"
+			],
+			[
+				"zshrc",
+				"oh-my-zsh/.zshrc"
+			],
+			[
+				"ind",
+				"widgets/github-notifications.widget/index.coffee"
+			],
+			[
+				"extract.plg",
+				"bash-it/plugins/available/extract.plugin.bash"
+			],
+			[
+				"apac",
+				"configurations_linux/configure-apache.sh"
+			],
+			[
+				"np",
+				"dotfiles/.npm_globals.sh"
+			],
+			[
+				"cask",
+				"dotfiles/.caskfile.sh"
+			],
+			[
+				"general",
+				"bash-it/aliases/available/general.aliases.bash"
+			],
+			[
+				"git.alias",
+				"bash-it/aliases/available/git.aliases.bash"
+			],
+			[
+				"gulp",
+				"oh-my-zsh/plugins/gulp/gulp.plugin.zsh"
+			],
+			[
+				"_vagra",
+				"oh-my-zsh/plugins/vagrant/_vagrant"
+			],
+			[
+				"ls_col",
+				"dotfiles/dircolors/LS_COLORS"
+			],
+			[
+				"aliases.bas",
+				"bash-it/aliases/custom.aliases.bash"
+			],
+			[
+				"",
+				"Chrome Extensions/Blog_Feed/labnol.js"
+			],
+			[
+				"whats",
+				"Papers/LDQ'15 - What's up LOD Cloud - Observing The State of Linked Open Data Cloud Metadata/SUP.tex"
+			],
+			[
+				"hdl",
+				"Papers/PROFILES'15 - HDL - Towards A Harmonized Dataset Model for Open Data Portals/HDL.tex"
+			],
+			[
+				"dq",
+				"Papers/IJSWIS - Towards An Objective Assessment Framework for Linked Data Quality/DQ.tex"
+			],
+			[
+				"dc.js",
+				"Semantic Web, IR and Data Analysis/Dataset Crawler/DC.js"
+			],
+			[
+				"book",
+				"Chrome Extensions/Booklight/booklight.js"
+			],
+			[
+				"passport.js",
+				"Social Web & Media/Chatter.me/configs/passport.js"
+			],
+			[
+				"datasetprofil",
+				"Semantic Web, IR and Data Analysis/Dataset Crawler/cache/publicdata.eu/datasets/bodenkunde-profile.json"
+			],
+			[
+				"booklight",
+				"Chrome Extensions/Booklight/booklight.js"
+			],
+			[
+				"sold",
+				"Papers/PROFILES'15 - An Extensible Framework to Validate and Build Dataset Profiles/SOLD.tex"
+			],
+			[
+				"event-media",
+				"Semantic Web, IR and Data Analysis/Dataset Crawler/cache/datahub.io/datasets/event-media.json"
+			],
+			[
+				"booklig",
+				"Chrome Extensions/Booklight/booklight.js"
+			],
+			[
+				"bib",
+				"Util/Bibliography/bibliography.bib"
+			],
+			[
+				"biblio",
+				"Util/Bibliography/bibliography.bib"
+			],
+			[
+				"latex",
+				"LaTEX Best Practices.md"
+			],
+			[
+				"report.",
+				"Progress Reports CIFRE & Workplans/PhD Interim Report/report.bib"
+			],
+			[
+				"report.tex",
+				"Progress Reports CIFRE & Workplans/PhD Interim Report/report.tex"
+			],
+			[
+				"what",
+				"Posters/ESWC'14 - What are the Important Properties of an Entity - Comparing Users and Knowledge Graph Point of View/eswc2014-poster.tex"
+			],
+			[
+				"impro",
+				"Papers/WOD'12 - Improving Schema Matching with Linked Data/Improving Schema Matching with Linked Data.tex"
+			],
+			[
+				"www",
+				"Posters/WWW'15 - Observing The State of Linked Open Data Cloud Metadata/www15-poster.tex"
+			],
+			[
+				".tex",
+				"Papers/WWW'15 - Automatic Validation, Correction and Generation of Dataset Metadata - Enhancing Dataset Search and Spam Detection/www15-demo.tex"
+			],
+			[
+				"sn",
+				"Papers/ESWC'13 - SNARC An Approach for Aggregating and Recommending Contextualized Social Content/SNARC.tex"
+			],
+			[
+				"hdl.tex",
+				"Papers/PROFILES'15 - HDL - Towards A Harmonized Dataset Model for Open Data Portals/HDL.tex"
+			],
+			[
+				"www15-post",
+				"Posters/WWW'15 - Observing The State of Linked Open Data Cloud Metadata/www15-poster.tex"
+			],
+			[
+				"sup.bib",
+				"Papers/LDQ'15 - What's up LOD Cloud - Observing The State of Linked Open Data Cloud Metadata/SUP.bib"
+			],
+			[
+				"sup.tex",
+				"Papers/LDQ'15 - What's up LOD Cloud - Observing The State of Linked Open Data Cloud Metadata/SUP.tex"
+			],
+			[
+				"dq.bib",
+				"Papers/IJSWIS - Towards An Objective Assessment Framework for Linked Data Quality/DQ.bib"
+			],
+			[
+				"llncs",
+				"Papers/ESWC'13 - SNARC An Approach for Aggregating and Recommending Contextualized Social Content/llncs.cls"
+			],
+			[
+				"dq.tex",
+				"Papers/IJSWIS - Towards An Objective Assessment Framework for Linked Data Quality/DQ.tex"
+			],
+			[
+				"sup",
+				"Papers/LDQ'15 - What's up LOD Cloud - Observing The State of Linked Open Data Cloud Metadata/SUP.tex"
+			],
+			[
+				"www15-demo",
+				"Papers/WWW'15 - Automatic Validation, Correction and Generation of Dataset Metadata - Enhancing Dataset Search and Spam Detection/www15-demo.tex"
+			],
+			[
+				"www15-pos",
+				"Posters/WWW'15 - Observing The State of Linked Open Data Cloud Metadata/www15-poster.tex"
+			],
+			[
+				"snarc.te",
+				"Papers/ESWC'13 - SNARC An Approach for Aggregating and Recommending Contextualized Social Content/SNARC.tex"
+			],
+			[
+				"snarc.",
+				"Papers/ESWC'13 - SNARC An Approach for Aggregating and Recommending Contextualized Social Content/SNARC.bib"
+			],
+			[
+				"snarc.bib",
+				"Papers/ESWC'13 - SNARC An Approach for Aggregating and Recommending Contextualized Social Content/SNARC.bib"
+			],
+			[
+				"sold.tex",
+				"Papers/PROFILES'15 - An Extensible Framework to Validate and Build Dataset Profiles/SOLD.tex"
+			],
+			[
+				"www-post",
+				"Posters/WWW'15 - Observing The State of Linked Open Data Cloud Metadata/www15-poster.tex"
+			],
+			[
+				"www15-demo.te",
+				"Papers/WWW'15 - Automatic Validation, Correction and Generation of Dataset Metadata - Enhancing Dataset Search and Spam Detection/www15-demo.tex"
+			],
+			[
+				"report",
+				"Progress Reports CIFRE & Workplans/PhD Interim Report/report.tex"
+			],
+			[
+				"hdl.bi",
+				"Papers/PROFILES'15 - HDL - Towards A Harmonized Dataset Model/HDL.bib"
+			],
+			[
+				"hdl.t",
+				"Papers/PROFILES'15 - HDL - Towards A Harmonised Dataset Model/HDL.tex"
+			],
+			[
+				"www15-de",
+				"Papers/WWW'15 - Automatic Validation, Correction and Generation of Dataset Metadata - Enhancing Dataset Search and Spam Detection/www15-demo.tex"
+			],
+			[
+				"dq.te",
+				"Papers/IJSWIS - Towards An Objective Assessment Framework for Linked Data Quality/DQ.tex.old_dont_delete"
+			],
+			[
+				"dq.text",
+				"Papers/IJSWIS - Towards An Objective Assessment Framework for Linked Data Quality/DQ.tex.old_dont_delete"
+			],
+			[
+				"sold.bib",
+				"Papers/PROFILES'15 - An Extensible Framework to Validate and Build Dataset Profiles/SOLD.bib"
+			],
+			[
+				"www15-poster",
+				"Posters/WWW15 - Observing The State of Linked Open Data Cloud Metadata/www15-poster.tex"
+			],
+			[
+				"sup.te",
+				"Papers/What's up LOD Cloud - Observing The State of Linked Open Data Cloud Metadata/SUP.tex"
+			],
+			[
+				"www15-d",
+				"Papers/Automatic Validation, Correction and Generation of Dataset Metadata - Enhancing Dataset Search and Spam Detection/www15-demo.bib"
+			],
+			[
+				"sold.bi",
+				"Papers/An Extensible Framework to Validate and Build Dataset Profiles/SOLD.bib"
+			],
+			[
+				"www15-dem",
+				"Papers/Automatic Validation, Correction and Generation of Dataset Metadata - Enhancing Dataset Search and Spam Detection/www15-demo.bib"
+			],
+			[
+				"soldt",
+				"Papers/An Extensible Framework to Validate and Build Dataset Profiles/SOLD.tex"
+			],
+			[
+				"sold.te",
+				"Papers/An Extensible Framework to Validate and Build Dataset Profiles/SOLD.tex"
+			],
+			[
+				"dq.bi",
+				"Papers/Towards An Objective Assessment Framework for Linked Data Quality/DQ.bib"
+			],
+			[
+				"rebu",
+				"Papers/An Extensible Framework to Validate and Build Dataset Profiles/rebutal_phase.txt"
+			],
+			[
+				"dq.t",
+				"Papers/Towards An Objective Assessment Framework for Linked Data Quality/DQ.tex"
+			],
+			[
+				"rebut",
+				"Papers/An Extensible Framework to Validate and Build Dataset Profiles/rebutal_phase.txt"
+			],
+			[
+				"www-poster",
+				"Posters/WWW15 - Observing The State of Linked Open Data Cloud Metadata/www15-poster.tex"
+			],
+			[
+				"www15-poster.bib",
+				"Posters/WWW15 - Observing The State of African Open Data/www15-poster.bib"
+			],
+			[
+				"www15-po",
+				"Posters/WWW15 - Observing The State of Open Data in Africa/www15-poster.tex"
+			],
+			[
+				"poser",
+				"Posters/WWW - Observing The State of Linked Open Data Cloud Metadata/www15-poster.tex"
+			],
+			[
+				"poster",
+				"Posters/WWW - Observing The State of Linked Open Data Cloud Metadata/www15-poster.tex"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "config",
+		"selected_items":
+		[
+			[
+				"config",
+				"~/Dropbox/Projects/Beamery/api-plugin-configs/beamery_api-plugin-configs.sublime-project"
+			],
+			[
+				"dev-env",
+				"~/Dropbox/Projects/Beamery/tool-dev-env/beamery_tool-dev-env.sublime-project"
+			],
+			[
+				"confg",
+				"~/Dropbox/Projects/Beamery/api-plugin-configs/beamery_api-plugin-configs.sublime-project"
+			],
+			[
+				"conf",
+				"~/Dropbox/Projects/Beamery/api-plugin-configs/beamery_api-plugin-configs.sublime-project"
+			],
+			[
+				"uni",
+				"~/Dropbox/Projects/Beamery/api-plugin-unifier/beamery_api-plugin-unifier.sublime-project"
+			],
+			[
+				"utils",
+				"~/Dropbox/Projects/Beamery/api-plugin-utils/beamery_api-plugin-utils.sublime-project"
+			],
+			[
+				"orm",
+				"~/Dropbox/Projects/Beamery/api-plugin-orm/beamery_api-plugin-orm.sublime-project"
+			],
+			[
+				"tool-dev",
+				"~/Dropbox/Projects/Beamery/tool-dev-env/beamery_tool-dev-env.sublime-project"
+			],
+			[
+				"dev-en",
+				"~/Dropbox/Projects/Beamery/tool-dev-env/beamery_tool-dev-env.sublime-project"
+			],
+			[
+				"tll-dev",
+				"~/Dropbox/Projects/Beamery/tool-dev-env/beamery_tool-dev-env.sublime-project"
+			],
+			[
+				"applica",
+				"~/Dropbox/Projects/Beamery/app-application/beamery_app-application.sublime-project"
+			],
+			[
+				"blog-c",
+				"~/Dropbox/Projects/My Personal Space/blog-core/personal-blog.sublime-project"
+			],
+			[
+				"exte",
+				"~/Dropbox/Projects/Beamery/app-extension/beamery_app-extension.sublime-project"
+			],
+			[
+				"servi",
+				"~/Dropbox/Projects/Beamery/service-queue/beamery_service-queue.sublime-project"
+			],
+			[
+				"confi",
+				"~/Dropbox/Projects/Beamery/api-plugin-configs/beamery_api-plugin-configs.sublime-project"
+			],
+			[
+				"integr",
+				"~/Dropbox/Projects/Beamery/tools-integration-tests/beamery_tools-integration-tests.sublime-project"
+			],
+			[
+				"blog",
+				"~/Dropbox/Projects/My Personal Space/blog-core/personal-blog.sublime-project"
+			],
+			[
+				"configs",
+				"~/Dropbox/Projects/Beamery/api-plugin-configs/beamery_api-plugin-configs.sublime-project"
+			],
+			[
+				"conta",
+				"~/Dropbox/Projects/Beamery/api-plugin-contacts/beamery_api-plugin-contacts.sublime-project"
+			],
+			[
+				"exten",
+				"~/Dropbox/Projects/Beamery/app-extension/beamery_app-extension.sublime-project"
+			],
+			[
+				"dev en",
+				"~/Dropbox/Projects/Beamery/tool-dev-env/beamery_tool-dev-env.sublime-project"
+			],
+			[
+				"extens",
+				"~/Dropbox/Projects/Beamery/app-extension/beamery_app-extension.sublime-project"
+			],
+			[
+				"docum",
+				"~/Dropbox/Projects/Beamery/app-documentation/beamery_app-documentation.sublime-project"
+			],
+			[
+				"CORE",
+				"~/Dropbox/Projects/Beamery/api-core/beamery_api-core.sublime-project"
+			],
+			[
+				"core",
+				"~/Dropbox/Projects/Beamery/api-core/beamery_api-core.sublime-project"
+			],
+			[
+				"plugin contact",
+				"~/Dropbox/Projects/Beamery/api-plugin-contacts/beamery_api-plugin-contacts.sublime-project"
+			],
+			[
+				"tool-sc",
+				"~/Dropbox/Projects/Beamery/tool-scripts/beamery_tool-scripts.sublime-project"
+			],
+			[
+				"plugin conta",
+				"~/Dropbox/Projects/Beamery/api-plugin-contacts/beamery_api-plugin-contacts.sublime-project"
+			],
+			[
+				"beamery",
+				"~/Dropbox/Projects/Beamery/beamery.sublime-project"
+			],
+			[
+				"appli",
+				"~/Dropbox/Projects/Beamery/app-application/beamery_app-application.sublime-project"
+			],
+			[
+				"plugin cont",
+				"~/Dropbox/Projects/Beamery/api-plugin-contacts/beamery_api-plugin-contacts.sublime-project"
+			],
+			[
+				"unif",
+				"~/Dropbox/Projects/Beamery/api-plugin-unifier/beamery_api-plugin-unifier.sublime-project"
+			],
+			[
+				"thes",
+				"~/Google Drive/Documents/PhD TelecomParisTech - EURECOM - France 2012-2015/My PhD Documents/Thesis/thesis.sublime-project"
+			],
+			[
+				"url",
+				"~/Dropbox/Projects/Beamery/api-plugin-url-utils/beamery_api-plugin-url-utils.sublime-project"
+			],
+			[
+				"doc",
+				"~/Dropbox/Projects/Beamery/app-documentation-core/beamery_app-documentation-core.sublime-project"
+			],
+			[
+				"bea",
+				"~/Dropbox/Projects/Beamery/beamery.sublime-project"
+			],
+			[
+				"plugin cof",
+				"~/Dropbox/Projects/Beamery/api-plugin-configs/beamery_api-plugin-configs.sublime-project"
+			],
+			[
+				"core pl cont",
+				"~/Dropbox/Projects/Beamery/api-core-plugin-contacts/beamery_api-core-plugin-contacts.sublime-project"
+			],
+			[
+				"beam",
+				"~/Dropbox/Projects/Seed.jobs/beamery.sublime-project"
+			],
+			[
+				"",
+				"~/Google Drive/Documents/PhD TelecomParisTech - EURECOM - France 2012-2015/My PhD Documents/Thesis/thesis.sublime-project"
+			],
+			[
+				"d",
+				"~/Dropbox/Projects/Seed.jobs/documentation/beamery_documentation.sublime-project"
+			],
+			[
+				"dpc",
+				"~/Dropbox/Projects/Configurations/configurations.sublime-project"
+			],
+			[
+				"docu",
+				"~/Dropbox/Projects/Seed.jobs/documentation/beamery_documentation.sublime-project"
+			],
+			[
+				"see",
+				"~/Dropbox/Projects/Seed.jobs/beamery.sublime-project"
+			],
+			[
+				"try",
+				"~/Dropbox/Projects/Freelancing/Try Catch.us/Talent Portal/try_catch_talent_portal.sublime-project"
+			],
+			[
+				"phd",
+				"~/Google Drive/Documents/PhD TelecomParisTech - EURECOM - France 2012-2015/My PhD Documents/Thesis/thesis.sublime-project"
+			],
+			[
+				"the",
+				"~/Google Drive/PhD TelecomParisTech - EURECOM - France 2012-2015/My PhD Documents/Thesis/thesis.sublime-project"
+			],
+			[
+				"projec",
+				"~/Dropbox/Projects/projects.sublime-project"
+			],
+			[
+				"chat",
+				"~/Dropbox/Projects/Social Web & Media/Chatter.me/chatter.sublime-workspace"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 387.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
