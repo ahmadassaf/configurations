@@ -8,7 +8,7 @@ SOURCE_LOCATION="$SCRIPT_DIRECTORY" # Contains the files and directories I want 
 
 echo "\nPulling latest updates from main Github repo and all its submdoules \n";
 # Pulling recent updates from the upstream and check for changes
-git pull --recurse-submodules origin master
+git pull --recurse-submodules origin main
 
 echo "Would you like to push back changes to forked repositories. Please enter ${red}[Forked remote name]${NC} or ${magenta}"N"${NC} to skip: " && read
 echo "";
@@ -20,7 +20,7 @@ if [[ ! $REPLY =~ ^[nN]$ ]]; then
     #git -C "$SOURCE_LOCATION/$line" status
     git -C "$SOURCE_LOCATION/$line" add --all
     git -C "$SOURCE_LOCATION/$line" commit -m "automatic updating of repository via update script"
-    git -C "$SOURCE_LOCATION/$line" push "$REPLY" master
+    git -C "$SOURCE_LOCATION/$line" push "$REPLY" HEAD
 	done
 fi
 
@@ -28,4 +28,4 @@ echo "\nPushing changes on parent container repository ... "
 git add --all
 git commit -m "automatic updating of repository via update script"
 # update the original container repo
-git push origin master
+git push origin main
